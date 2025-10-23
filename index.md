@@ -2,7 +2,7 @@
 ## Portafolio digital de Aprendizaje 📋  
 
 ### Unidad 1 🔍  
-[Prácticas Unidad 1](Unidad1.md)  
+[Ir a Unidad 1](Unidad1/README.md)   
 
 ### Unidad 2 📚  
 [Prácticas Unidad 2](Unidad2.md)  
@@ -13,5 +13,3 @@
 ### Conclusiones 📊  
 ### Referencias 📑  
 ### Uso de la IA generativa 🤖  
-
-
