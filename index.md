@@ -2,8 +2,7 @@
 ## Portafolio digital de Aprendizaje 📋  
 
 ### Unidad 1 🔍  
-[Ir a Unidad 1](Unidad1/README.md)  
-[Regresar a carpeta superior](../)  
+[Ir a Unidad 1](Unidad1/.md)  
 ### Unidad 2 📚  
 [Prácticas Unidad 2](Unidad2.md)  
 
