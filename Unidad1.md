@@ -1,2 +1,1 @@
-
-[Regresar al índice](../index.md)
+[Regresar al índice principal](../index.md)
