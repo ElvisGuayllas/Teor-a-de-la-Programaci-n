@@ -1,2 +1,2 @@
 
-[Regresar a carpeta superior](../)  
+[Regresar al índice](../index.md)
