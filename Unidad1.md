@@ -1,6 +1,7 @@
 # Algoritmos, pseudocódigo y diagramas de flujo
 
 - Programación por bloques.
+- Proyecto Visual Studio: [Ver archivos]("C:\Users\Usuario\OneDrive\Documentos\Teoria de programacion\area triangulo.psc")
 - Ejemplos de algoritmos con estructuras lineales/secuenciales.
 - Principales dificultades en la aplicación de los contenidos.
 - Reflexión crítica sobre los aprendizajes de la unidad.
