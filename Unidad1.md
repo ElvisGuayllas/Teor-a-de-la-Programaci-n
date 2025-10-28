@@ -1,10 +1,9 @@
 # Algoritmos, pseudocódigo y diagramas de flujo
 
-- Programación por bloques.
-  (file:///C:/Users/Usuario/Downloads/APE-CRT-001-signed%20(1).pdf)
+- Ejercicios resueltos usando PSeint y lenjuague de programacion C.
+  [ver contenidos](./https://drive.google.com/drive/folders/1tGIqUmd9aJRFrfWxw5vThZTEXGs_wXlc?usp=drive_link)
+
 - Ejemplos de algoritmos con estructuras lineales/secuenciales.
-- Principales dificultades en la aplicación de los contenidos.
-- Reflexión crítica sobre los aprendizajes de la unidad.
 
 ## Tareas entregadas
 
