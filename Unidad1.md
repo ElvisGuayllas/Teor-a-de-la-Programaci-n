@@ -18,7 +18,7 @@ Inicio
 ### Pseudocódigo
 
 El pseudocódigo es una representación simplificada y estructurada de un algoritmo, que utiliza un lenguaje cercano al humano pero con una lógica formal que facilita entender la secuencia de pasos sin la rigurosidad de un lenguaje de programación específico. Sirve para planificar y diseñar algoritmos antes de programarlos, permitiendo que cualquier persona pueda comprender el proceso sin conocimientos avanzados de programación. Ejemplo
-![Ver imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/Captura%20de%20pantalla%202025-10-29%20084317.png)
+![Ver imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/imagen1.png)
 
 ### Diagrama de flujo
 
