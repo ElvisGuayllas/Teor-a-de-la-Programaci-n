@@ -35,7 +35,7 @@ Esta forma de programar es especialmente útil para introducir conceptos de prog
 ### 📝 Ejemplos de algoritmos con estructuras lineales/secuenciales:
 
   - 📐 Ejemplo 1: Calcular el área de un triángulo  
-    ![Imagen]()
+    ![Imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Captura%20de%20pantalla%202025-10-29%20095347.png)
   - ➕ Ejemplo 2: Suma de dos números  
     [Ver ejemplo](https://drive.google.com/file/d/1mTIYXC3VAUBSBnlm0lUgfeBFXFp8NgF-/view?usp=drive_link)
   - 📊 Ejemplo 3: Calcular promedio (usando reglas de tres)  
