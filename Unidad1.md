@@ -57,7 +57,7 @@ Esta forma de programar es especialmente útil para introducir conceptos de prog
 - 💻 Instalación de lenguajes de programación (C, Python o Java).  
   [Ver tarea](https://drive.google.com/file/d/14J7SAnPUKfMiSxT1s4EGUgtW_r7eQY0G/view?usp=drive_link)
 
-- Primer acercamiento a laconstrucción de algoritmos conestructuras secuenciales en pseudocódigo
+- Primer acercamiento a laconstrucción de algoritmos conestructuras secuenciales en pseudocódigo.
   [Ver tarea](https://drive.google.com/file/d/1AZLjMB7uwIYVQi00So4b3ge_dJLJ8LFA/view?usp=drive_link)
 
 - 🔄 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa.  
