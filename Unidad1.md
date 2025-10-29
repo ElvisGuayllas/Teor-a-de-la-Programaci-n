@@ -7,8 +7,8 @@
 - 🧩 Algoritmos, pseudocódigo y diagrama de flujo.
 - Algoritmos
 Un algoritmo es un conjunto finito y ordenado de instrucciones o pasos bien definidos que permiten resolver un problema, realizar un cálculo o desarrollar una tarea específica. En programación, los algoritmos son la base para escribir código, ya que indican cómo proceder desde una entrada inicial hasta obtener un resultado final, siguiendo una secuencia lógica sin ambigüedades. Todas las instrucciones deben ser claras, tener un inicio y un fin, y ser ejecutables sin confusión.
-# Ejemplo
-
+### Ejemplo
+![Mi imagen](imagen.png)
 - Pseudocódigo
 El pseudocódigo es una representación simplificada y estructurada de un algoritmo, que utiliza un lenguaje cercano al humano pero con una lógica formal que facilita entender la secuencia de pasos sin la rigurosidad de un lenguaje de programación específico. Sirve para planificar y diseñar algoritmos antes de programarlos, permitiendo que cualquier persona pueda comprender el proceso sin conocimientos avanzados de programación.
 - Diagrama de flujo
