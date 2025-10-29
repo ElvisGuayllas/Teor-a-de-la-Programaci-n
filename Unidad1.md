@@ -52,10 +52,13 @@ Esta forma de programar es especialmente útil para introducir conceptos de prog
 ## 📁 Tareas entregadas
 
 - 🛠️ Herramientas de algoritmos (pseudocódigo y diagramas de flujo).  
-  [Ver contenidos](https://drive.google.com/drive/folders/1tGIqUmd9aJRFrfWxw5vThZTEXGs_wXlc?usp=drive_link)
+  [Ver contenidos](https://drive.google.com/file/d/1-8r3nNZ82_79XYHAUDY8EJkMvBsa1ERc/view?usp=drive_link)
 
 - 💻 Instalación de lenguajes de programación (C, Python o Java).  
   [Ver tarea](https://drive.google.com/file/d/14J7SAnPUKfMiSxT1s4EGUgtW_r7eQY0G/view?usp=drive_link)
+
+- Primer acercamiento a laconstrucción de algoritmos conestructuras secuenciales en pseudocódigo
+  [Ver tarea](https://drive.google.com/file/d/1AZLjMB7uwIYVQi00So4b3ge_dJLJ8LFA/view?usp=drive_link)
 
 - 🔄 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa.  
   [Ver contenido](https://drive.google.com/file/d/1Roji2JPSVhwFUL0xn-KkCvRUT9IvwU12/view?usp=drive_link)
