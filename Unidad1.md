@@ -20,7 +20,7 @@ Fin
 - Pseudocódigo
 El pseudocódigo es una representación simplificada y estructurada de un algoritmo, que utiliza un lenguaje cercano al humano pero con una lógica formal que facilita entender la secuencia de pasos sin la rigurosidad de un lenguaje de programación específico. Sirve para planificar y diseñar algoritmos antes de programarlos, permitiendo que cualquier persona pueda comprender el proceso sin conocimientos avanzados de programación.
 ### Ejemplo
-[Ver imagen]()
+[Ver imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/Captura%20de%20pantalla%202025-10-29%20084317.png)
 - Diagrama de flujo
 El diagrama de flujo es una representación gráfica de un algoritmo que utiliza símbolos estandarizados para ilustrar visualmente los pasos, decisiones y procesos que se deben seguir para resolver un problema o ejecutar una tarea. Los diagramas de flujo ayudan a entender la lógica del algoritmo de manera visual y son muy útiles para diseñar y comunicar cómo funciona un proceso o programa
 - 🔲 Programación por bloques.
