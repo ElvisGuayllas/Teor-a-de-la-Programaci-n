@@ -23,8 +23,10 @@ El pseudocódigo es una representación simplificada y estructurada de un algori
 ### Diagrama de flujo
 
 El diagrama de flujo es una representación gráfica de un algoritmo que utiliza símbolos estandarizados para ilustrar visualmente los pasos, decisiones y procesos que se deben seguir para resolver un problema o ejecutar una tarea. Los diagramas de flujo ayudan a entender la lógica del algoritmo de manera visual y son muy útiles para diseñar y comunicar cómo funciona un proceso o programa. Ejemplo:
-![Ver imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/Diagrama%20de%20flujo.png)
+![Ver imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Diagrama%20de%20flujo.png)
+
 ### 🔲 Programación por bloques.
+
 - La programación por bloques es una metodología visual para programar donde las instrucciones se representan como bloques gráficos que se arrastran y encajan entre sí, como piezas de LEGO. Cada bloque corresponde a una acción, evento, condición o función, y al unirlos en un orden lógico se crea un programa o secuencia de instrucciones.
 Esta forma de programar es especialmente útil para introducir conceptos de programación a principiantes y niños, ya que elimina la necesidad de memorizar y escribir códigos complejos. Ejemplp:
 [Ver imagen]()
