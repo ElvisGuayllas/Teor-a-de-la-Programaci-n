@@ -24,7 +24,7 @@ El pseudocódigo es una representación simplificada y estructurada de un algori
 - ### Diagrama de flujo
 
 El diagrama de flujo es una representación gráfica de un algoritmo que utiliza símbolos estandarizados para ilustrar visualmente los pasos, decisiones y procesos que se deben seguir para resolver un problema o ejecutar una tarea. Los diagramas de flujo ayudan a entender la lógica del algoritmo de manera visual y son muy útiles para diseñar y comunicar cómo funciona un proceso o programa. Ejemplo:
-![Ver imagen]()
+![Ver imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/Diagrama%20de%20flujo.png)
 - 🔲 Programación por bloques.
 - 📝 Ejemplos de algoritmos con estructuras lineales/secuenciales:
   - 📐 Ejemplo 1: Calcular el área de un triángulo  
