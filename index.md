@@ -1,6 +1,18 @@
-# UNIVERSIDAD NACIONAL DE LOJA
-## Materia: Teoría de la Programación 😎  
-### Portafolio Digital de Aprendizaje –📋  
+# 🎓 UNIVERSIDAD NACIONAL DE LOJA
+
+---
+
+## 📚 Materia: [translate:Teoría de la Programación] 😎  
+
+## 👤 Estudiante: Elvis Hernan Guayllas Sarango
+
+## 👩‍🏫 Docente: Ing. Lissette Geoconda López Faicán
+
+---
+
+### 📋 Portafolio Digital de Aprendizaje
+
+
 
 ### Unidad 1 🔍  
 [Contenidos de la unidad 1](./Unidad1.md) 
