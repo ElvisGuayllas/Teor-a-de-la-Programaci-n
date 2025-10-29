@@ -37,9 +37,9 @@ Esta forma de programar es especialmente útil para introducir conceptos de prog
   - 📐 Ejemplo 1: Calcular el área de un triángulo  
     ![Imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Captura%20de%20pantalla%202025-10-29%20095347.png)
   - ➕ Ejemplo 2: Suma de dos números  
-    [Ver ejemplo](https://drive.google.com/file/d/1mTIYXC3VAUBSBnlm0lUgfeBFXFp8NgF-/view?usp=drive_link)
+    [Ver ejemplo](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/suma%20de%20dos%20numeros.png)
   - 📊 Ejemplo 3: Calcular promedio (usando reglas de tres)  
-    [Ver ejemplo](https://drive.google.com/file/d/1n2TWoUnJHF-wFHQ8WyJarbQ1R6vtuZU4/view?usp=drive_link)
+    [Ver ejemplo](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Promedio.png)
 - ⚠️ **Principales dificultades en la aplicación de los contenidos:**  
   Durante la aplicación, enfrenté desafíos en la comprensión y uso de las máscaras, especialmente para entender su propósito y funcionamiento. Las máscaras en informática son conjuntos de datos que, mediante operaciones lógicas, permiten manipular bits dentro de estructuras binarias, siendo cruciales para tareas como el manejo de bits y redes.  
   Además, tuve retos con el lenguaje C, debido a su sintaxis y paradigma diferente a los lenguajes que conocía previamente (HTML, CSS y un poco de C++). Esto implicó adaptarme a una programación procedural de bajo nivel, que contrasta con el enfoque declarativo y orientado a estilos del desarrollo web.
