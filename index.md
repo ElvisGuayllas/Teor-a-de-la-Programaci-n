@@ -2,11 +2,13 @@
 
 ---
 
-## 📚 Materia: [translate:Teoría de la Programación] 😎  
+## 📚 Materia: Teoría de la Programación  
 
 ## 👤 Estudiante: Elvis Hernan Guayllas Sarango
 
 ## 👩‍🏫 Docente: Ing. Lissette Geoconda López Faicán
+
+## 💻 Carrera: Computación / Ingeniería en Sistemas
 
 ---
 
