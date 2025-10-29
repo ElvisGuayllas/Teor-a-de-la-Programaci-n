@@ -1,4 +1,4 @@
-# 📚 Temas principales
+<img width="755" height="376" alt="image" src="https://github.com/user-attachments/assets/d6227bc3-8d1e-4a8f-b70e-299e2cd7e23a" /># 📚 Temas principales
 
 ## 🚀 Algoritmos, Pseudocódigo y Diagramas de Flujo
 
@@ -35,7 +35,7 @@ Esta forma de programar es especialmente útil para introducir conceptos de prog
 ### 📝 Ejemplos de algoritmos con estructuras lineales/secuenciales:
 
   - 📐 Ejemplo 1: Calcular el área de un triángulo  
-    [Ver ejemplo](https://drive.google.com/file/d/13cZiKv0I5dpiZwySM4mOnbFQwhAZLy4S/view?usp=drive_link)
+    ![Imagen]()
   - ➕ Ejemplo 2: Suma de dos números  
     [Ver ejemplo](https://drive.google.com/file/d/1mTIYXC3VAUBSBnlm0lUgfeBFXFp8NgF-/view?usp=drive_link)
   - 📊 Ejemplo 3: Calcular promedio (usando reglas de tres)  
