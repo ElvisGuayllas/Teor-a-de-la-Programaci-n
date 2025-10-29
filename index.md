@@ -1,5 +1,6 @@
-# Teoría de la Programación 😎  
-## Portafolio Digital de Aprendizaje –📋  
+# UNIVERSIDAD NACIONAL DE LOJA
+## Materia: Teoría de la Programación 😎  
+### Portafolio Digital de Aprendizaje –📋  
 
 ### Unidad 1 🔍  
 [Contenidos de la unidad 1](./Unidad1.md) 
