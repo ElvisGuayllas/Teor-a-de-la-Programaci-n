@@ -32,7 +32,7 @@
   [Ver tarea](https://drive.google.com/file/d/14J7SAnPUKfMiSxT1s4EGUgtW_r7eQY0G/view?usp=drive_link)
 
 - 🔄 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa.  
-  [Ver contenido](https://drive.google.com/file/d/1iZ8OIcpjBH_bOb1XlamlVdEuUr-OQhTe/view?usp=drive_link)
+  [Ver contenido](https://drive.google.com/file/d/1Roji2JPSVhwFUL0xn-KkCvRUT9IvwU12/view?usp=drive_link)
 
 ---
 
