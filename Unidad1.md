@@ -1,69 +1,80 @@
-# 📚 Temas principales
-
-## 🚀 Algoritmos, Pseudocódigo y Diagramas de Flujo
-
-### Algoritmos
-
-Un algoritmo es un conjunto finito y ordenado de instrucciones o pasos bien definidos que permiten resolver un problema, realizar un cálculo o desarrollar una tarea específica. En programación, los algoritmos son la base para escribir código, ya que indican cómo proceder desde una entrada inicial hasta obtener un resultado final, siguiendo una secuencia lógica sin ambigüedades. Todas las instrucciones deben ser claras, tener un inicio y un fin, y ser ejecutables sin confusión. 
-Ejemplo:
-Inicio
-- Definir Pi = 3.1416
-- Escribir "Ingrese el valor del radio:"
-- Leer radio
-- longitud = 2 * Pi * radio
-- area = Pi * radio * radio
-- Escribir "La longitud de la circunferencia es: ", longitud
-- Escribir "El área del círculo es: ", area
-- Fin
-  
-### Pseudocódigo
-
-El pseudocódigo es una representación simplificada y estructurada de un algoritmo, que utiliza un lenguaje cercano al humano pero con una lógica formal que facilita entender la secuencia de pasos sin la rigurosidad de un lenguaje de programación específico. Sirve para planificar y diseñar algoritmos antes de programarlos, permitiendo que cualquier persona pueda comprender el proceso sin conocimientos avanzados de programación. Ejemplo
-![Ver imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/imagen1.png)
-
-### Diagrama de flujo
-
-El diagrama de flujo es una representación gráfica de un algoritmo que utiliza símbolos estandarizados para ilustrar visualmente los pasos, decisiones y procesos que se deben seguir para resolver un problema o ejecutar una tarea. Los diagramas de flujo ayudan a entender la lógica del algoritmo de manera visual y son muy útiles para diseñar y comunicar cómo funciona un proceso o programa. Ejemplo:
-![Ver imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Diagrama%20de%20flujo.png)
-
-### 🔲 Programación por bloques.
-
-- La programación por bloques es una metodología visual para programar donde las instrucciones se representan como bloques gráficos que se arrastran y encajan entre sí, como piezas de LEGO. Cada bloque corresponde a una acción, evento, condición o función, y al unirlos en un orden lógico se crea un programa o secuencia de instrucciones.
-Esta forma de programar es especialmente útil para introducir conceptos de programación a principiantes y niños, ya que elimina la necesidad de memorizar y escribir códigos complejos. Ejemplp:
-![Ver imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Captura%20de%20pantalla%202025-10-29%20093359.png)
-
-### 📝 Ejemplos de algoritmos con estructuras lineales/secuenciales:
-
-  - 📐 Ejemplo 1: Calcular el área de un triángulo  
-    ![Ver Imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Captura%20de%20pantalla%202025-10-29%20095347.png)
-  - ➕ Ejemplo 2: Suma de dos números  
-     ![Ver Imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/suma%20de%20dos%20numeros.png)
-  - 📊 Ejemplo 3: Calcular promedio (usando reglas de tres)  
-     ![Ver Imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Promedio.png)
-- ⚠️ **Principales dificultades en la aplicación de los contenidos:**  
-  Durante la aplicación, enfrenté desafíos en la comprensión y uso de las máscaras, especialmente para entender su propósito y funcionamiento. Las máscaras en informática son conjuntos de datos que, mediante operaciones lógicas, permiten manipular bits dentro de estructuras binarias, siendo cruciales para tareas como el manejo de bits y redes.  
-  Además, tuve retos con el lenguaje C, debido a su sintaxis y paradigma diferente a los lenguajes que conocía previamente (HTML, CSS y un poco de C++). Esto implicó adaptarme a una programación procedural de bajo nivel, que contrasta con el enfoque declarativo y orientado a estilos del desarrollo web.
-
-- 💭 **Reflexión crítica sobre los aprendizajes de la unidad:**  
-  Como estudiante universitario, la introducción a los algoritmos y programación ha sido tanto un desafío como una oportunidad para fortalecer habilidades de pensamiento lógico y estructurado. La capacidad de descomponer problemas cotidianos en soluciones computacionales claras, junto con la diferenciación entre pseudocódigo, lenguajes y programas, ha consolidado una base sólida para avanzar en ingeniería computacional.
+# 📚 **Temas principales**
 
 ---
 
-## 📁 Tareas entregadas
+## 🚀 **Algoritmos, Pseudocódigo y Diagramas de Flujo**
 
-- 🛠️ Herramientas de algoritmos (pseudocódigo y diagramas de flujo).  
-  [Ver contenidos](https://drive.google.com/file/d/1-8r3nNZ82_79XYHAUDY8EJkMvBsa1ERc/view?usp=drive_link)
+---
 
-- 💻 Instalación de lenguajes de programación (C, Python o Java).  
-  [Ver tarea](https://drive.google.com/file/d/14J7SAnPUKfMiSxT1s4EGUgtW_r7eQY0G/view?usp=drive_link)
+### 🧮 **Algoritmos**
 
-- Primer acercamiento a laconstrucción de algoritmos conestructuras secuenciales en pseudocódigo.
-  [Ver tarea](https://drive.google.com/file/d/1AZLjMB7uwIYVQi00So4b3ge_dJLJ8LFA/view?usp=drive_link)
+Un **algoritmo** es un conjunto finito y ordenado de instrucciones o pasos bien definidos que permiten resolver un problema, realizar un cálculo o desarrollar una tarea específica. En programación, los algoritmos son la base para escribir código, ya que indican cómo proceder desde una entrada inicial hasta obtener un resultado final, siguiendo una secuencia lógica sin ambigüedades.  
+**Ejemplo:**  
+📝 Inicio  
+- Definir Pi = 3.1416  
+- Escribir "Ingrese el valor del radio:"  
+- Leer radio  
+- longitud = 2 * Pi * radio  
+- área = Pi * radio * radio  
+- Escribir "La longitud de la circunferencia es: ", longitud  
+- Escribir "El área del círculo es: ", área  
+📝 Fin
 
-- 🔄 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa.  
-  [Ver contenido](https://drive.google.com/file/d/1Roji2JPSVhwFUL0xn-KkCvRUT9IvwU12/view?usp=drive_link)
+---
+
+### 📜 **Pseudocódigo**
+
+El **pseudocódigo** es una representación simplificada y estructurada de un algoritmo, que utiliza un lenguaje cercano al humano pero con lógica formal que facilita entender la secuencia de pasos sin la rigurosidad de un lenguaje de programación específico.  
+Es una herramienta esencial para planificar y diseñar algoritmos antes de programarlos, permitiendo a cualquier persona comprender el proceso sin conocimientos avanzados.  
+**Ejemplo:**  
+![Ejemplo de pseudocódigo](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/imagen1.png)
+
+---
+
+### 📈 **Diagrama de flujo**
+
+El **diagrama de flujo** es una representación gráfica de un algoritmo que utiliza símbolos estandarizados para ilustrar visualmente los pasos, decisiones y procesos.  
+Estos diagramas ayudan a entender la lógica del algoritmo de forma visual y facilitan la comunicación y diseño de funciones o programas.  
+**Ejemplo:**  
+![Diagrama de flujo](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Diagrama%20de%20flujo.png)
+
+---
+
+### 🔲 **Programación por bloques**
+
+🧱 La **programación por bloques** es una metodología visual donde las instrucciones se representan como bloques gráficos que se arrastran y encajan, similar a piezas de LEGO.  
+Es especialmente útil para principiantes y niños, pues elimina la necesidad de memorizar sintaxis y fomenta el pensamiento lógico.  
+**Ejemplo:**  
+![Programación por bloques](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Captura%20de%20pantalla%202025-10-29%20093359.png)
+
+---
+
+### 📝 **Ejemplos de algoritmos secuenciales**
+
+- 📐 **Calcular el área de un triángulo**  
+  ![Ejemplo 1](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Captura%20de%20pantalla%202025-10-29%20095347.png)
+
+- ➕ **Suma de dos números**  
+  ![Ejemplo 2](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/suma%20de%20dos%20numeros.png)
+
+- 📊 **Calcular promedio (regla de tres)**  
+  ![Ejemplo 3](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Promedio.png)
+
+---
+
+### ⚠️ **Dificultades y reflexiones**
+
+Durante la aplicación, enfrenté desafíos en la comprensión de máscaras y el lenguaje C, que requiere una sintaxis estricta y programación procedural. Sin embargo, esto ha fortalecido mi pensamiento lógico y mi capacidad para resolver problemas complejos paso a paso.
+
+---
+
+## 📁 **Tareas entregadas**
+
+- ✅ [Herramientas de algoritmos (pseudocódigo y diagramas)](https://drive.google.com/file/d/1-8r3nNZ82_79XYHAUDY8EJkMvBsa1ERc/view?usp=drive_link)  
+- ✅ [Instalación de lenguajes de programación](https://drive.google.com/file/d/14J7SAnPUKfMiSxT1s4EGUgtW_r7eQY0G/view?usp=drive_link)  
+- ✅ [Construcción de algoritmos con estructuras secuenciales](https://drive.google.com/file/d/1AZLjMB7uwIYVQi00So4b3ge_dJLJ8LFA/view?usp=drive_link)  
+- ✅ [Del diseño de algoritmos a la construcción de programas](https://drive.google.com/file/d/1Roji2JPSVhwFUL0xn-KkCvRUT9IvwU12/view?usp=drive_link)
 
 ---
 
 [⬅️ Regresar al índice principal](./index.md)
-
