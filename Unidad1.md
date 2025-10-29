@@ -29,7 +29,7 @@ El diagrama de flujo es una representación gráfica de un algoritmo que utiliza
 
 - La programación por bloques es una metodología visual para programar donde las instrucciones se representan como bloques gráficos que se arrastran y encajan entre sí, como piezas de LEGO. Cada bloque corresponde a una acción, evento, condición o función, y al unirlos en un orden lógico se crea un programa o secuencia de instrucciones.
 Esta forma de programar es especialmente útil para introducir conceptos de programación a principiantes y niños, ya que elimina la necesidad de memorizar y escribir códigos complejos. Ejemplp:
-[Ver imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Captura%20de%20pantalla%202025-10-29%20093359.png)
+![Ver imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Captura%20de%20pantalla%202025-10-29%20093359.png)
 
 - 📝 Ejemplos de algoritmos con estructuras lineales/secuenciales:
   - 📐 Ejemplo 1: Calcular el área de un triángulo  
