@@ -1,4 +1,4 @@
-<img width="755" height="376" alt="image" src="https://github.com/user-attachments/assets/d6227bc3-8d1e-4a8f-b70e-299e2cd7e23a" /># 📚 Temas principales
+# 📚 Temas principales
 
 ## 🚀 Algoritmos, Pseudocódigo y Diagramas de Flujo
 
