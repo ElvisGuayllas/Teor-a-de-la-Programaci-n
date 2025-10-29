@@ -1,8 +1,5 @@
-# 🚀 Algoritmos, Pseudocódigo y Diagramas de Flujo
-
-## 📚 Temas principales
-
-- ### 🧩 Algoritmos, pseudocódigo y diagrama de flujo.
+# 📚 Temas principales
+## 🚀 Algoritmos, Pseudocódigo y Diagramas de Flujo
 
 ### Algoritmos
 
