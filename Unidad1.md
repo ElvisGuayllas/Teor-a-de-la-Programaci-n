@@ -1,4 +1,5 @@
 # 📚 Temas principales
+
 ## 🚀 Algoritmos, Pseudocódigo y Diagramas de Flujo
 
 ### Algoritmos
@@ -31,7 +32,8 @@ El diagrama de flujo es una representación gráfica de un algoritmo que utiliza
 Esta forma de programar es especialmente útil para introducir conceptos de programación a principiantes y niños, ya que elimina la necesidad de memorizar y escribir códigos complejos. Ejemplp:
 ![Ver imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Captura%20de%20pantalla%202025-10-29%20093359.png)
 
-- 📝 Ejemplos de algoritmos con estructuras lineales/secuenciales:
+### 📝 Ejemplos de algoritmos con estructuras lineales/secuenciales:
+
   - 📐 Ejemplo 1: Calcular el área de un triángulo  
     [Ver ejemplo](https://drive.google.com/file/d/13cZiKv0I5dpiZwySM4mOnbFQwhAZLy4S/view?usp=drive_link)
   - ➕ Ejemplo 2: Suma de dos números  
