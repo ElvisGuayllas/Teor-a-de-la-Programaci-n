@@ -4,7 +4,7 @@
 
 - ### 🧩 Algoritmos, pseudocódigo y diagrama de flujo.
 
-- ### Algoritmos
+### Algoritmos
 
 Un algoritmo es un conjunto finito y ordenado de instrucciones o pasos bien definidos que permiten resolver un problema, realizar un cálculo o desarrollar una tarea específica. En programación, los algoritmos son la base para escribir código, ya que indican cómo proceder desde una entrada inicial hasta obtener un resultado final, siguiendo una secuencia lógica sin ambigüedades. Todas las instrucciones deben ser claras, tener un inicio y un fin, y ser ejecutables sin confusión. 
 Ejemplo:
@@ -17,15 +17,17 @@ Inicio
 - Escribir "La longitud de la circunferencia es: ", longitud
 - Escribir "El área del círculo es: ", area
 - Fin
-- ### Pseudocódigo
+  
+### Pseudocódigo
 
 El pseudocódigo es una representación simplificada y estructurada de un algoritmo, que utiliza un lenguaje cercano al humano pero con una lógica formal que facilita entender la secuencia de pasos sin la rigurosidad de un lenguaje de programación específico. Sirve para planificar y diseñar algoritmos antes de programarlos, permitiendo que cualquier persona pueda comprender el proceso sin conocimientos avanzados de programación. Ejemplo
 ![Ver imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/Captura%20de%20pantalla%202025-10-29%20084317.png)
-- ### Diagrama de flujo
+
+### Diagrama de flujo
 
 El diagrama de flujo es una representación gráfica de un algoritmo que utiliza símbolos estandarizados para ilustrar visualmente los pasos, decisiones y procesos que se deben seguir para resolver un problema o ejecutar una tarea. Los diagramas de flujo ayudan a entender la lógica del algoritmo de manera visual y son muy útiles para diseñar y comunicar cómo funciona un proceso o programa. Ejemplo:
 ![Ver imagen](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/Diagrama%20de%20flujo.png)
-- ### 🔲 Programación por bloques.
+### 🔲 Programación por bloques.
 - La programación por bloques es una metodología visual para programar donde las instrucciones se representan como bloques gráficos que se arrastran y encajan entre sí, como piezas de LEGO. Cada bloque corresponde a una acción, evento, condición o función, y al unirlos en un orden lógico se crea un programa o secuencia de instrucciones.
 Esta forma de programar es especialmente útil para introducir conceptos de programación a principiantes y niños, ya que elimina la necesidad de memorizar y escribir códigos complejos. Ejemplp:
 [Ver imagen]()
