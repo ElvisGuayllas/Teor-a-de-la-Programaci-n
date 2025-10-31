@@ -29,9 +29,8 @@ El proceso del algoritmo es: pedir al usuario que ingrese el valor del radio, lu
 
 ### 📜 **Pseudocódigo**
 
-El **pseudocódigo** es una representación simplificada y estructurada de un algoritmo, con un lenguaje cercano al humano pero con lógica formal que facilita entender la secuencia de pasos sin la rigurosidad de un lenguaje específico.  
-
-Es clave para planificar y diseñar algoritmos antes de programarlos, permitiendo que cualquier persona comprenda el proceso.  
+El **pseudocódigo** es una representación simplificada y estructurada de un algoritmo, que utiliza un lenguaje cercano al humano pero con lógica formal que facilita entender la secuencia de pasos sin la rigurosidad de un lenguaje de programación específico.  
+Es una herramienta esencial para planificar y diseñar algoritmos antes de programarlos, permitiendo a cualquier persona comprender el proceso sin conocimientos avanzados.   
 
 **Ejemplo:**  
 ![Ejemplo de pseudocódigo](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/imagen1.png)
@@ -51,9 +50,8 @@ Sirve para que un usuario ingrese el radio y obtenga perímetro y área del cír
 
 ### 📈 **Diagrama de flujo**
 
-Un **diagrama de flujo** es una representación gráfica de un algoritmo que usa símbolos estandarizados para mostrar visualmente pasos, decisiones y procesos.  
-
-Ayuda a entender la lógica y facilita la comunicación y diseño de programas.  
+El **diagrama de flujo** es una representación gráfica de un algoritmo que utiliza símbolos estandarizados para ilustrar visualmente los pasos, decisiones y procesos.  
+Estos diagramas ayudan a entender la lógica del algoritmo de forma visual y facilitan la comunicación y diseño de funciones o programas. 
 
 **Ejemplo:**  
 ![Diagrama de flujo](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Diagrama%20de%20flujo.png)
@@ -71,9 +69,8 @@ Una prueba de escritorio es una técnica manual para validar la lógica de un al
 
 ### 🔲 **Programación por bloques**
 
-La **programación por bloques** representa instrucciones como bloques gráficos que se arrastran y encajan, similar a piezas de LEGO.  
-
-Ideal para principiantes y niños, elimina necesidad de memorizar sintaxis y fomenta el pensamiento lógico.  
+🧱 La **programación por bloques** es una metodología visual donde las instrucciones se representan como bloques gráficos que se arrastran y encajan, similar a piezas de LEGO.  
+Es especialmente útil para principiantes y niños, pues elimina la necesidad de memorizar sintaxis y fomenta el pensamiento lógico.
 
 **Ejemplo:**  
 ![Programación por bloques](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Captura%20de%20pantalla%202025-10-29%20093359.png)
@@ -124,7 +121,7 @@ Ideal para principiantes y niños, elimina necesidad de memorizar sintaxis y fom
 
 ### ⚠️ **Dificultades y reflexiones**
 
-Durante la aplicación, enfrenté desafíos con máscaras y el lenguaje [translate:C], que exige sintaxis estricta y programación procedural. Esto fortaleció mi pensamiento lógico y capacidad para resolver problemas paso a paso.
+Durante la aplicación, enfrenté desafíos en la comprensión de máscaras y el lenguaje C, que requiere una sintaxis estricta y programación procedural. Sin embargo, esto ha fortalecido mi pensamiento lógico y mi capacidad para resolver problemas complejos paso a paso.
 
 ---
 
