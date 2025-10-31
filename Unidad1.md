@@ -11,7 +11,7 @@
 Un **algoritmo** es un conjunto finito y ordenado de instrucciones o pasos bien definidos que permiten resolver un problema, realizar un cálculo o desarrollar una tarea específica. En programación, son la base para escribir código, pues indican cómo proceder desde una entrada inicial hasta obtener un resultado final, siguiendo una secuencia lógica sin ambigüedades.  
 
 **Ejemplo:**  
-📝 Inicio  
+- Inicio  
 - Definir Pi = 3.1416  
 - Escribir "Ingrese el valor del radio:"  
 - Leer radio  
@@ -19,10 +19,11 @@ Un **algoritmo** es un conjunto finito y ordenado de instrucciones o pasos bien 
 - área = Pi * radio * radio  
 - Escribir "La longitud de la circunferencia es: ", longitud  
 - Escribir "El área del círculo es: ", área  
-- Fin  
+- Fin; 
 
 **¿Para qué sirve este algoritmo?**  
-Pide al usuario el valor del radio, calcula longitud y área con fórmulas clásicas y muestra los resultados.
+El proceso del algoritmo es: pedir al usuario que ingrese el valor del radio, luego calcula la longitud y el área usando las fórmulas mencionadas, y finalmente escribe (muestra) ambos resultados al usuario. Este algoritmo es útil para conocer esas medidas básicas cuando se tiene el radio de un círculo dado.
+
 
 ---
 
