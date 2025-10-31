@@ -53,7 +53,6 @@ Estos diagramas ayudan a entender la lógica del algoritmo de forma visual y fac
 ### 📈 **Pruebas de Escritorio**
 - Una prueba de escritorio es una técnica manual usada para validar y verificar la lógica de un algoritmo o programa sin necesidad de ejecutarlo en una computadora. Consiste en simular el paso a paso del algoritmo, asignando valores a las variables y siguiendo el flujo de instrucciones para comprobar si el programa hace lo que debe hacer, detectando errores lógicos o de flujo antes de la ejecución real.
 A continiacion se muestra un ejemplo de una prueba de escritorio 
--	Validación o prueba de escritorio
 ![VER](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Pruebas%20de%20escritorio.png)
 ---
 
