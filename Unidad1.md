@@ -54,11 +54,8 @@ Estos diagramas ayudan a entender la lógica del algoritmo de forma visual y fac
 - Una prueba de escritorio es una técnica manual usada para validar y verificar la lógica de un algoritmo o programa sin necesidad de ejecutarlo en una computadora. Consiste en simular el paso a paso del algoritmo, asignando valores a las variables y siguiendo el flujo de instrucciones para comprobar si el programa hace lo que debe hacer, detectando errores lógicos o de flujo antes de la ejecución real.
 A continiacion se muestra un ejemplo de una prueba de escritorio 
 -	Validación o prueba de escritorio
-Altura	Peso	Proceso
-(IMC)	Salida
-1.58m	50Kg	IMC = 50/1.58 ^2	IMC = 20.02
-1.71m	62Kg	IMC = 62/1.71 ^2	IMC = 21.20
-1.80m	68Kg	IMC = 68/1.80 ^2	IMC = 20.98
+![VER](<img width="715" height="161" alt="image" src="https://github.com/user-attachments/assets/8c302baf-43ae-4815-9c9b-a87cb9b32f93" />
+)
 ---
 
 ### 🔲 **Programación por bloques**
