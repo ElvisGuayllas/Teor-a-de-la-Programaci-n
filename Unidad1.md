@@ -70,6 +70,15 @@ Es especialmente útil para principiantes y niños, pues elimina la necesidad de
 - 📐 **Calcular el área de un triángulo**  
   ![Ejemplo 1](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Captura%20de%20pantalla%202025-10-29%20095347.png)
 
+  **¿Como funciona?**
+-El código del algoritmo "area_triangulo" funciona para calcular el área de un triángulo con base en los valores de base y altura que el usuario ingresa.
+-Aquí está la explicación paso a paso:
+-Define tres variables de tipo real: b (base), a (altura) y resultado (para almacenar el área).
+-Muestra un mensaje para que el usuario ingrese el valor de la base y lee ese valor en la variable b.
+-Muestra un mensaje para que el usuario ingrese el valor de la altura y lee ese valor en la variable a.
+-Calcula el área usando la fórmula matemática del área de un triángulo: (base * altura) / 2, guardando el resultado en la variable resultado.
+-Finalmente, muestra en pantalla el valor calculado de la superficie del triángulo.
+
 - ➕ **Suma de dos números**  
   ![Ejemplo 2](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/suma%20de%20dos%20numeros.png)
 
