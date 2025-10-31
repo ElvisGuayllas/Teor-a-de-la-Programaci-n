@@ -50,6 +50,16 @@ Estos diagramas ayudan a entender la lógica del algoritmo de forma visual y fac
 ![Diagrama de flujo](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Diagrama%20de%20flujo.png)
 
 ---
+### 📈 **Pruebas de Escritorio**
+- Una prueba de escritorio es una técnica manual usada para validar y verificar la lógica de un algoritmo o programa sin necesidad de ejecutarlo en una computadora. Consiste en simular el paso a paso del algoritmo, asignando valores a las variables y siguiendo el flujo de instrucciones para comprobar si el programa hace lo que debe hacer, detectando errores lógicos o de flujo antes de la ejecución real.
+A continiacion se muestra un ejemplo de una prueba de escritorio 
+-	Validación o prueba de escritorio
+Altura	Peso	Proceso
+(IMC)	Salida
+1.58m	50Kg	IMC = 50/1.58 ^2	IMC = 20.02
+1.71m	62Kg	IMC = 62/1.71 ^2	IMC = 21.20
+1.80m	68Kg	IMC = 68/1.80 ^2	IMC = 20.98
+---
 
 ### 🔲 **Programación por bloques**
 
