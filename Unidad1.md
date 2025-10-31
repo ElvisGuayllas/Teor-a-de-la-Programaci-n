@@ -90,7 +90,7 @@ Durante la aplicación, enfrenté desafíos en la comprensión de máscaras y el
 - ✅ [Instalación de lenguajes de programación](https://drive.google.com/file/d/14J7SAnPUKfMiSxT1s4EGUgtW_r7eQY0G/view?usp=drive_link)  
 - ✅ [Construcción de algoritmos con estructuras secuenciales](https://drive.google.com/file/d/1AZLjMB7uwIYVQi00So4b3ge_dJLJ8LFA/view?usp=drive_link)  
 - ✅ [Del diseño de algoritmos a la construcción de programas](https://drive.google.com/file/d/1Roji2JPSVhwFUL0xn-KkCvRUT9IvwU12/view?usp=drive_link)
-- ✅ [ejercicios en "C"](https://drive.google.com/drive/folders/12QoqkacnlMom00tgVKZJs70fvS-t7gCY?usp=drive_link)
+- ✅ [Ejercicios en "C"](https://drive.google.com/drive/folders/12QoqkacnlMom00tgVKZJs70fvS-t7gCY?usp=drive_link)
 ---
 
 [⬅️ Regresar al índice principal](./index.md)
