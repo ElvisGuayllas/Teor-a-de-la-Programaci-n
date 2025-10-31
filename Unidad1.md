@@ -18,8 +18,9 @@ Un **algoritmo** es un conjunto finito y ordenado de instrucciones o pasos bien 
 - área = Pi * radio * radio  
 - Escribir "La longitud de la circunferencia es: ", longitud  
 - Escribir "El área del círculo es: ", área  
-📝 Fin
-
+- Fin;
+- **¿Para qué sirve este algoritmo?**
+El proceso del algoritmo es: pedir al usuario que ingrese el valor del radio, luego calcula la longitud y el área usando las fórmulas mencionadas, y finalmente escribe (muestra) ambos resultados al usuario. Este algoritmo es útil para conocer esas medidas básicas cuando se tiene el radio de un círculo dado.
 ---
 
 ### 📜 **Pseudocódigo**
@@ -28,7 +29,17 @@ El **pseudocódigo** es una representación simplificada y estructurada de un al
 Es una herramienta esencial para planificar y diseñar algoritmos antes de programarlos, permitiendo a cualquier persona comprender el proceso sin conocimientos avanzados.  
 **Ejemplo:**  
 ![Ejemplo de pseudocódigo](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/imagen1.png)
-
+- **¿Como qué funciona este Pseudocodigo?**
+Aquí te explico paso a paso para qué sirve cada instrucción:
+-1) Define la constante Pi como 3.1416, que es una aproximación del número π.
+-2) Muestra en pantalla el mensaje "Ingrese el valor del radio:" para pedir al usuario que introduzca el radio del círculo.
+-3)Lee el valor del radio ingresado por el usuario y lo almacena en la variable radio.
+-4)Calcula la longitud de la circunferencia con la fórmula: longitud = 2 * Pi * radio.
+-5)Calcula el área del círculo con la fórmula: área = Pi * radio * radio.
+-6)Muestra en pantalla la longitud calculada.
+-7)Muestra en pantalla el área calculada.
+-8)Fin indica el final del programa.
+Este código sirve para que un usuario pueda ingresar el radio de un círculo y el programa le devuelva el perímetro (longitud de la circunferencia) y el área del círculo usando las fórmulas matemáticas clásicas. Es un ejemplo sencillo típico para practicar entrada, procesamiento y salida de datos en programación.
 ---
 
 ### 📈 **Diagrama de flujo**
