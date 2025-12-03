@@ -17,11 +17,6 @@ Es la estructura más básica. Se evalúa una condición; si es verdadera, se ej
 
 ![Ejemplo de la condicion IF](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/if.png)
 
-**Ejemplo en Lenguaje C:**
-
-![Ejemplo de la condicion IF](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/if.png)
-
-
 **¿Como funciona?**
 1. Declaración de variables: Se declara una variable llamada edad que es del tipo entero (Entero). Esto significa que se utilizará para almacenar un número entero, que representará la edad de la persona.
 Ingreso de datos:
@@ -35,6 +30,17 @@ Si la condición es verdadera (es decir, si la edad ingresada es 18 años o más
 
 5. Fin del algoritmo:
 Las instrucciones del algoritmo finalizan con FinAlgoritmo, indicando que se ha completado el proceso.
+
+**Ejemplo en Lenguaje C:**
+
+![Ejemplo de la condicion IF](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/ifc.png)
+
+**¿Como funciona?**
+1. El programa pide al usuario que ingrese su edad.
+2. Guarda ese número en la variable edad.
+3. Luego verifica si la edad es mayor o igual a 18.
+4. Si lo es, muestra el mensaje: "Usted es mayor de edad".
+5. Si es menor de 18, no muestra nada más.
 
 El programa es sencillo sirve para verificar si una persona es mayor de edad a base de la edad ingresada.
 
