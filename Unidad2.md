@@ -10,7 +10,7 @@
 ### 1. **Condicional Simple (If)** ✅
 Es la estructura más básica. Se evalúa una condición; si es verdadera, se ejecuta un bloque de instrucciones. Si es falsa, no pasa nada y el programa sigue su curso.  
 **Ejemplo:**
-![Ejemplo de la condicion IF]()
+![Ejemplo de la condicion IF](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/if.png)
 
 **Lógica:** *"Si llueve, llevo paraguas."*  
 *(Si no llueve, simplemente sigo caminando).*
