@@ -30,6 +30,12 @@ Esta estructura es especial. En lugar de evaluar rangos (mayor que, menor que), 
 ---
 
 ## 📊 **Ejercicios en diagrama de flujo y en C**
+En la siguiente secion se muestrara digrama de flujo del uso de los tipos de condicionales antes mencionados
+
+
+
+
+
 
 ---
 
