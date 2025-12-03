@@ -1,1 +1,1 @@
-
+Las estructuras condicionales son las herramientas que permiten a un programa "tomar decisiones". Rompen la ejecución lineal (paso 1, paso 2, paso 3) y crean bifurcaciones en el camino: "Si pasa X, haz esto; si no, haz lo otro".Las estructuras condicionales son las herramientas que permiten a un programa "tomar decisiones". Rompen la ejecución lineal (paso 1, paso 2, paso 3) y crean bifurcaciones en el camino: "Si pasa X, haz esto; si no, haz lo otro".
