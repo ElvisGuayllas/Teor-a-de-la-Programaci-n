@@ -26,7 +26,7 @@ Primer ciclo
 [Contenidos de la unidad 1](./Unidad1.md)
 ---
 ## Unidad 2 📚  
-[No aplica]
+[Contenidos de la unidad 2](./Unidad2.md)
 ---
 ## Unidad 3 📝  
 [No aplica]
