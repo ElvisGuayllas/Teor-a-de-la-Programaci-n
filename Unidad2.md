@@ -9,14 +9,44 @@
 
 ### 1. **Condicional Simple (If)** ✅
 Es la estructura más básica. Se evalúa una condición; si es verdadera, se ejecuta un bloque de instrucciones. Si es falsa, no pasa nada y el programa sigue su curso. 
+
 **Lógica:** *"Si llueve, llevo paraguas."*  
 *(Si no llueve, simplemente sigo caminando).*
-**Ejemplo:**
+
+**Ejemplo en diagrama de flujo:**
+
 ![Ejemplo de la condicion IF](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/if.png)
+
+**Ejemplo en Lenguaje C:**
+
+![Ejemplo de la condicion IF](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/if.png)
+
+
+**¿Como funciona?**
+1. Declaración de variables: Se declara una variable llamada edad que es del tipo entero (Entero). Esto significa que se utilizará para almacenar un número entero, que representará la edad de la persona.
+Ingreso de datos:
+
+2. Se despliega un mensaje en pantalla que dice "Ingrese su edad: ", solicitando al usuario que introduzca su edad.
+Luego, se utiliza la instrucción Leer para capturar el valor ingresado por el usuario y almacenarlo en la variable edad.
+Estructura condicional:
+
+3. Se evalúa una condición con la estructura Si...Entonces. La condición que se verifica es si la edad es mayor o igual a 18.
+Si la condición es verdadera (es decir, si la edad ingresada es 18 años o más), se ejecuta la instrucción que sigue, que es Escribir "Usted es mayor de edad". Esto significa que se informa al usuario que es mayor de edad.
+
+5. Fin del algoritmo:
+Las instrucciones del algoritmo finalizan con FinAlgoritmo, indicando que se ha completado el proceso.
+
+El programa es sencillo sirve para verificar si una persona es mayor de edad a base de la edad ingresada.
 
 ### 2. **Condicional Doble (If - Else)** 🔄
 Aquí definimos qué hacer en ambos casos. Si la condición se cumple, se hace una cosa; si no se cumple, se hace otra distinta. **Nunca se ejecutan ambas a la vez.**  
 **Lógica:** *"Si tengo dinero, compro el juego. Si no (Else), solo miro la demo."*
+
+**Ejemplo:**
+
+![Ejemplo de la condicion IF - Else](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/if.png)
+
+**¿Como funciona?**
 
 ### 3. **Condicional Múltiple o Anidada (If - Else If)** 🪜
 Es lo que usamos en tu ejercicio de la bonificación. Es una **escalera de condiciones**. Si falla la primera, prueba la segunda, luego la tercera, etc.  
