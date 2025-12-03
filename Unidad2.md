@@ -8,12 +8,11 @@
 **Los tipos principales** que encontrarás en lenguajes como **C, Java, Python**, etc., son:
 
 ### 1. **Condicional Simple (If)** ✅
-Es la estructura más básica. Se evalúa una condición; si es verdadera, se ejecuta un bloque de instrucciones. Si es falsa, no pasa nada y el programa sigue su curso.  
-**Ejemplo:**
-![Ejemplo de la condicion IF](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/if.png)
-
+Es la estructura más básica. Se evalúa una condición; si es verdadera, se ejecuta un bloque de instrucciones. Si es falsa, no pasa nada y el programa sigue su curso. 
 **Lógica:** *"Si llueve, llevo paraguas."*  
 *(Si no llueve, simplemente sigo caminando).*
+**Ejemplo:**
+![Ejemplo de la condicion IF](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/if.png)
 
 ### 2. **Condicional Doble (If - Else)** 🔄
 Aquí definimos qué hacer en ambos casos. Si la condición se cumple, se hace una cosa; si no se cumple, se hace otra distinta. **Nunca se ejecutan ambas a la vez.**  
