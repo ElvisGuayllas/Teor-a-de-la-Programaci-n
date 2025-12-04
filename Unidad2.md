@@ -101,11 +101,17 @@ Es lo que usamos en tu ejercicio de la bonificación. Es una **escalera de condi
 **¿Como funciona?**
 
 1- Entrada de Dato: El programa muestra una pregunta en pantalla y espera que el usuario ingrese el dato numérico, guardándolo en memoria.
+
 2- Filtro Error: Verifica si el dato ingresado es menor a cero (if). Si esta condición es Verdadera, imprime un mensaje de error y el programa ignora todos los pasos siguientes.
+
 3- Filtro Niño: Si el paso 3 falló, el programa verifica la siguiente categoría (else if). Si es Verdadera, imprime "Niño" y salta al final del programa.
+
 4- Filtro Adolescente: Si el paso 4 falló, el programa verifica si el dato entra en la categoría de "Adolescente" (else if). Si es Verdadera, imprime la categoría y salta al final.
+
 5- Filtro Adulto: Si el paso 5 falló, verifica si el dato entra en la categoría de "Adulto" (else if). Si es Verdadera, imprime la categoría y salta al final.
+
 6- Caso Final: Si todos los filtros anteriores fallaron, el programa ejecuta la acción del último else (imprimir "Adulto Mayor") por simple descarte.
+
 7- Cierre: La función principal del programa termina.
 
 ### 4. **Selección Múltiple (Switch / Case)** 🎛️
@@ -115,7 +121,8 @@ Esta estructura es especial. En lugar de evaluar rangos (mayor que, menor que), 
 - ✅ Días de la semana
 - ✅ Códigos de error
 
-**Ejemplo usando diagrama de flujo*** 
+**Ejemplo usando diagrama de flujo**
+![Ejemplo con Switch]()
 
 ---
 
