@@ -14,7 +14,7 @@ Es la estructura más básica. Se evalúa una condición; si es verdadera, se ej
 *(Si no llueve, simplemente sigo caminando).*
 
 **Ejemplo en diagrama de flujo:**  
-![Ejemplo de la condicion IF](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/if.png)
+!Ejemplo de la condicion IF
 
 **¿Cómo funciona?**  
 🔢 **1. Declaración de variables**: Se declara una variable llamada `edad` que es del tipo entero (Entero). Esto significa que se utilizará para almacenar un número entero, que representará la edad de la persona.  
@@ -23,12 +23,13 @@ Es la estructura más básica. Se evalúa una condición; si es verdadera, se ej
 🏁 **4. Fin del algoritmo**: Las instrucciones del algoritmo finalizan con `FinAlgoritmo`, indicando que se ha completado el proceso.
 
 **Ejemplo en Lenguaje C:**  
-![Ejemplo de la condicion IF](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/ifc.png)
+!Ejemplo de la condicion IF
 
 **¿Cómo funciona?**  
 🔢 **1.** El programa pide al usuario que ingrese su edad.
 
 💾 **2.** Guarda ese número en la variable `edad`.  
+
 🔍 **3.** Luego verifica si la edad es mayor o igual a 18.
 
 ✅ **4.** Si lo es, muestra el mensaje: "Usted es mayor de edad".
@@ -44,7 +45,7 @@ Aquí definimos qué hacer en ambos casos. Si la condición se cumple, se hace u
 **Lógica:** *"Si tengo dinero, compro el juego. Si no (Else), solo miro la demo."*
 
 **Ejemplo en diagrama de flujo:**  
-![Ejemplo de la condicion if - else](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/D.%20de%20Flujo%20elseif.png)
+!Ejemplo de la condicion if - else
 
 **¿Cómo funciona?**  
 🔢 **1.** PSeInt simula el `else if` mediante la anidación de bloques (`SiNo + Si`).
@@ -53,7 +54,7 @@ Aquí definimos qué hacer en ambos casos. Si la condición se cumple, se hace u
 📥 **4.** I/O Simple: El proceso de entrada y salida es más directo: `Leer edad` y `Escribir "Mensaje"`.
 
 **Ejemplo en lenguaje C:**  
-![Ejemplo de la condicion IF - Else](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/else-if.png)
+!Ejemplo de la condicion IF - Else
 
 **¿Cómo funciona?** 
 
@@ -68,7 +69,7 @@ Es lo que usamos en tu ejercicio de la bonificación. Es una **escalera de condi
 **Lógica:** *"¿Es rojo? No. ¿Entonces es verde? No. ¿Entonces es azul? Sí."*
 
 **Ejemplo en diagrama de Flujo:**  
-![Ejemplo usando C. Mutiple](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/DF%20Condicional%20M%C3%BAltiple.png)
+!Ejemplo usando C. Mutiple
 
 **¿Cómo funciona?**  
 🔢 **1.** Definición: El algoritmo inicia y establece que el dato que va a procesar será de tipo numérico entero.
@@ -81,7 +82,7 @@ Es lo que usamos en tu ejercicio de la bonificación. Es una **escalera de condi
 🔒 **8.** Cierre: El programa cierra cada bloque lógico abierto utilizando los múltiples comandos `FinSi` y termina el algoritmo.
 
 **Ejemplo aplicado en lenguaje C:**  
-![Ejemplo usando C. Mutiple](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Condicional%20M%C3%BAltiple.png)
+!Ejemplo usando C. Mutiple
 
 **¿Cómo funciona?**  
 🔢 **1.** Entrada de Dato: El programa muestra una pregunta en pantalla y espera que el usuario ingrese el dato numérico, guardándolo en memoria.
@@ -102,7 +103,7 @@ Esta estructura es especial. En lugar de evaluar rangos (mayor que, menor que), 
 - ✅ Códigos de error
 
 **Ejemplo usando diagrama de flujo:**  
-![Ejemplo con Switch](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/case%20Df.png)
+!Ejemplo con Switch
 
 **¿Cómo Funciona?**  
 🔢 **1.** Entrada de Datos: Se solicitan y leen tres variables: dos números (`num1`, `num2`) y un carácter (`operador`).
@@ -113,7 +114,7 @@ Esta estructura es especial. En lugar de evaluar rangos (mayor que, menor que), 
 🚫 **4.** De Otro Modo: Si el carácter ingresado no coincide con ningún operador válido, se ejecuta el bloque de error.
 
 **Ejemplo aplicado en lenguaje C:**  
-![Ejemplo con Switch](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/case%20c.png)
+!Ejemplo con Switch
 
 **¿Cómo funciona?**  
 🔢 **1.** Definición de Variables: Se preparan tres variables `float` (`num1`, `num2`, `resultado`) para manejar números decimales y una variable `char` (`operador`) para capturar el símbolo de la operación.
@@ -137,3 +138,4 @@ Esta estructura es especial. En lugar de evaluar rangos (mayor que, menor que), 
 ## ⚠️ **Principales dificultades en la aplicación de los contenidos**
 ## 🤔 **Reflexión crítica de los aprendizajes de la unidad**
 ## 🗂️ **Tareas entregadas**
+
