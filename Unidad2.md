@@ -94,13 +94,9 @@ Es lo que usamos en tu ejercicio de la bonificación. Es una **escalera de condi
 
 8- Cierre: El programa cierra cada bloque lógico abierto utilizando los múltiples comandos FinSi y termina el algoritmo.
 
-
-
-
-
-
 **Ejemplo aplicado en lenguaje C**
-[]()
+
+![Ejemplo usando C. Mutiple](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Condicional%20M%C3%BAltiple.png)
 
 **¿Como funciona?**
 
@@ -118,6 +114,8 @@ Esta estructura es especial. En lugar de evaluar rangos (mayor que, menor que), 
 - ✅ Menús de opciones
 - ✅ Días de la semana
 - ✅ Códigos de error
+
+**Ejemplo usando diagrama de flujo*** 
 
 ---
 
