@@ -31,7 +31,7 @@ Si la condición es verdadera (es decir, si la edad ingresada es 18 años o más
 5. Fin del algoritmo:
 Las instrucciones del algoritmo finalizan con FinAlgoritmo, indicando que se ha completado el proceso.
 
-**Ejemplo en Lenguaje C:**
+**Ejemplo en aplicado en Lenguaje C:**
 
 ![Ejemplo de la condicion IF](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/ifc.png)
 
@@ -49,15 +49,25 @@ Aquí definimos qué hacer en ambos casos. Si la condición se cumple, se hace u
 **Lógica:** *"Si tengo dinero, compro el juego. Si no (Else), solo miro la demo."*
 
 **Ejemplo en diagrama de flujo**
-![Ejemplo de la condicion if - else]()
+![Ejemplo de la condicion if - else](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/D.%20de%20Flujo%20elseif.png)
 
+**¿Como funciona?**
 
-**Ejemplo en lenguaje C**
+1- PSeInt simula el else if mediante la anidación de bloques (SiNo + Si).
+2- Evaluación Anidada: Cuando la condición principal (Si) es falsa, el flujo de ejecución entra al bloque SiNo para encontrar el siguiente Si.
+3- Cierre de Bloques: Esta anidación explica por qué se requieren múltiples FinSi al final. Cada FinSi cierra un nivel de la decisión que fue abierto por un Si anterior.
+4- I/O Simple: El proceso de entrada y salida es más directo: Leer edad y Escribir "Mensaje".
+
+**Ejemplo en aplicado en lenguaje C**
 
 ![Ejemplo de la condicion IF - Else](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/else-if.png)
 
 **¿Como funciona?**
+1- El lenguaje C utiliza el if-else if como una cadena secuencial y plana.
 
+2- Evaluación Rápida: La estructura else if actúa como un filtro directo. Si la primera condición (if) es falsa, el programa pasa al else if y así sucesivamente.
+
+3- Exclusividad: Tan pronto como una condición (if o else if) se cumple, el programa salta inmediatamente fuera de toda la cadena (sin mirar los else if restantes).
 
 ### 3. **Condicional Múltiple o Anidada (If - Else If)** 🪜
 Es lo que usamos en tu ejercicio de la bonificación. Es una **escalera de condiciones**. Si falla la primera, prueba la segunda, luego la tercera, etc.  
