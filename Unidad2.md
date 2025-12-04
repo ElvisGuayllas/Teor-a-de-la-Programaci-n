@@ -122,7 +122,23 @@ Esta estructura es especial. En lugar de evaluar rangos (mayor que, menor que), 
 - ✅ Códigos de error
 
 **Ejemplo usando diagrama de flujo**
-![Ejemplo con Switch]()
+![Ejemplo con Switch](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/case%20Df.png)
+
+**¿Como Funciona?**
+1- Entrada de Datos: Se solicitan y leen tres variables: dos números (num1, num2) y un carácter (operador).
+
+2- Control de Flujo (Segun): La ejecución pasa a la instrucción Segun operador Hacer.
+
+3- Evaluación Exclusiva: El programa busca una coincidencia exacta con el valor de la variable operador (+, -, *, /).
+
+4- Ejecución: Al encontrar la coincidencia (ej., *), ejecuta la operación correspondiente (resultado <- num1 * num2), muestra el resultado, e ignora todos los demás casos, terminando la estructura Segun.
+
+5- Validación: Se incluye una estructura condicional (Si/SiNo) anidada en el caso de la división para prevenir la división por cero, garantizando la estabilidad del programa.
+
+6- De Otro Modo: Si el carácter ingresado no coincide con ningún operador válido, se ejecuta el bloque de error.
+
+**Ejemplo aplicado en lenguaje C**
+![Ejemplo con Switch](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/case%20Df.png)
 
 ---
 
