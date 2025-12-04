@@ -3,7 +3,7 @@
 ## 🔹 Tipos de Estructuras Condicionales 
 
 Las **estructuras condicionales** son las herramientas que permiten a un programa *"tomar decisiones"*. Rompen la ejecución lineal (paso 1, paso 2, paso 3) y crean bifurcaciones en el camino:  
-> **"Si pasa X, haz esto; si no, haz lo otro."**
+**"Si pasa X, haz esto; si no, haz lo otro."**
 
 Los **tipos principales** que encontrarás en lenguajes como C, Java, Python, etc., son:
 
@@ -32,7 +32,7 @@ Es la estructura más básica. Se evalúa una condición; si es verdadera, se ej
 ✅ **4.** Si lo es, muestra el mensaje: *"Usted es mayor de edad"*.  
 ⏭️ **5.** Si es menor de 18, no muestra nada más.
 
-> *Programa sencillo para verificar si una persona es mayor de edad a base de la edad ingresada.*
+*Programa sencillo para verificar si una persona es mayor de edad a base de la edad ingresada.*
 
 ---
 
