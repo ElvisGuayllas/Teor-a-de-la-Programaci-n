@@ -50,9 +50,10 @@ Aquí definimos qué hacer en ambos casos. Si la condición se cumple, se hace u
 
 **Ejemplo:**
 
-![Ejemplo de la condicion IF - Else](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/if.png)
+![Ejemplo de la condicion IF - Else](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/else-if.png)
 
 **¿Como funciona?**
+
 
 ### 3. **Condicional Múltiple o Anidada (If - Else If)** 🪜
 Es lo que usamos en tu ejercicio de la bonificación. Es una **escalera de condiciones**. Si falla la primera, prueba la segunda, luego la tercera, etc.  
