@@ -13,170 +13,114 @@ Es la estructura más básica. Se evalúa una condición; si es verdadera, se ej
 **Lógica:** *"Si llueve, llevo paraguas."*  
 *(Si no llueve, simplemente sigo caminando).*
 
-**Ejemplo en diagrama de flujo:**
-
+**Ejemplo en diagrama de flujo:**  
 ![Ejemplo de la condicion IF](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/if.png)
 
-**¿Como funciona?**
-1. Declaración de variables: Se declara una variable llamada edad que es del tipo entero (Entero). Esto significa que se utilizará para almacenar un número entero, que representará la edad de la persona.
-Ingreso de datos:
+**¿Cómo funciona?**  
+1. **Declaración de variables**: Se declara `edad` (tipo entero) para almacenar la edad.  
+2. **Ingreso de datos**: Muestra "Ingrese su edad: " y usa `Leer` para capturar el valor.  
+3. **Estructura condicional**: `Si edad >= 18 Entonces` → `Escribir "Usted es mayor de edad"`.  
+4. **Fin del algoritmo**: `FinAlgoritmo`.
 
-2. Se despliega un mensaje en pantalla que dice "Ingrese su edad: ", solicitando al usuario que introduzca su edad.
-Luego, se utiliza la instrucción Leer para capturar el valor ingresado por el usuario y almacenarlo en la variable edad.
-Estructura condicional:
-
-3. Se evalúa una condición con la estructura Si...Entonces. La condición que se verifica es si la edad es mayor o igual a 18.
-Si la condición es verdadera (es decir, si la edad ingresada es 18 años o más), se ejecuta la instrucción que sigue, que es Escribir "Usted es mayor de edad". Esto significa que se informa al usuario que es mayor de edad.
-
-5. Fin del algoritmo:
-Las instrucciones del algoritmo finalizan con FinAlgoritmo, indicando que se ha completado el proceso.
-
-**Ejemplo en aplicado en Lenguaje C:**
-
+**Ejemplo en Lenguaje C:**  
 ![Ejemplo de la condicion IF](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/ifc.png)
 
-**¿Como funciona?**
-1. El programa pide al usuario que ingrese su edad.
-2. Guarda ese número en la variable edad.
-3. Luego verifica si la edad es mayor o igual a 18.
-4. Si lo es, muestra el mensaje: "Usted es mayor de edad".
+**¿Cómo funciona?**  
+1. Pide al usuario ingresar su edad.  
+2. Guarda el número en `edad`.  
+3. Verifica `if (edad >= 18)`.  
+4. Si es verdadero, muestra "Usted es mayor de edad".  
 5. Si es menor de 18, no muestra nada más.
 
-El programa es sencillo sirve para verificar si una persona es mayor de edad a base de la edad ingresada.
+> **Programa sencillo para verificar si una persona es mayor de edad.**
+
+---
 
 ### 2. **Condicional Doble (If - Else)** 🔄
-Aquí definimos qué hacer en ambos casos. Si la condición se cumple, se hace una cosa; si no se cumple, se hace otra distinta. **Nunca se ejecutan ambas a la vez.**  
+Aquí definimos qué hacer en **ambos casos**. Si la condición se cumple, se hace una cosa; si no, otra distinta. **Nunca se ejecutan ambas a la vez.**  
 **Lógica:** *"Si tengo dinero, compro el juego. Si no (Else), solo miro la demo."*
 
-**Ejemplo en diagrama de flujo**
+**Ejemplo en diagrama de flujo:**  
 ![Ejemplo de la condicion if - else](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/D.%20de%20Flujo%20elseif.png)
 
-**¿Como funciona?**
+**¿Cómo funciona?**  
+1. **PSeInt**: Simula `else if` mediante anidación (`SiNo + Si`).  
+2. **Evaluación anidada**: Si la condición principal falla, entra al `SiNo`.  
+3. **Cierre de bloques**: Múltiples `FinSi` cierran cada nivel.  
+4. **I/O simple**: `Leer edad` y `Escribir "Mensaje"`.
 
-1- PSeInt simula el else if mediante la anidación de bloques (SiNo + Si).
-2- Evaluación Anidada: Cuando la condición principal (Si) es falsa, el flujo de ejecución entra al bloque SiNo para encontrar el siguiente Si.
-3- Cierre de Bloques: Esta anidación explica por qué se requieren múltiples FinSi al final. Cada FinSi cierra un nivel de la decisión que fue abierto por un Si anterior.
-4- I/O Simple: El proceso de entrada y salida es más directo: Leer edad y Escribir "Mensaje".
-
-**Ejemplo en aplicado en lenguaje C**
-
+**Ejemplo en lenguaje C:**  
 ![Ejemplo de la condicion IF - Else](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/else-if.png)
 
-**¿Como funciona?**
+**¿Cómo funciona?**  
+1. **Cadena secuencial**: `if-else if` como filtro directo.  
+2. **Evaluación rápida**: Pasa al siguiente `else if` si el anterior falla.  
+3. **Exclusividad**: Al cumplir una condición, **salta fuera** de toda la cadena.
 
-1- El lenguaje C utiliza el if-else if como una cadena secuencial y plana.
+---
 
-2- Evaluación Rápida: La estructura else if actúa como un filtro directo. Si la primera condición (if) es falsa, el programa pasa al else if y así sucesivamente.
-
-3- Exclusividad: Tan pronto como una condición (if o else if) se cumple, el programa salta inmediatamente fuera de toda la cadena (sin mirar los else if restantes).
-
-### 3. **Condicional Múltiple o Anidada (If - Else If)** 🪜
-Es lo que usamos en tu ejercicio de la bonificación. Es una **escalera de condiciones**. Si falla la primera, prueba la segunda, luego la tercera, etc.  
+### 3. **Condicional Múltiple (If - Else If)** 🪜
+Es una **escalera de condiciones**. Si falla la primera, prueba la segunda, luego la tercera, etc.  
 **Lógica:** *"¿Es rojo? No. ¿Entonces es verde? No. ¿Entonces es azul? Sí."*
-**Ejemplo en diagrama de Flujo**
 
-![Ejemplo usando C. Mutiple](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/DF%20Condicional%20M%C3%BAltiple.png)
+**Ejemplo en diagrama de flujo:**  
+![Ejemplo usando C. Múltiple](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/DF%20Condicional%20M%C3%BAltiple.png)
 
-**¿Como funciona?**
-1- Definición: El algoritmo inicia y establece que el dato que va a procesar será de tipo numérico entero.
+**¿Cómo funciona?**  
+1. **Definición**: Dato numérico entero.  
+2. **Entrada**: `Leer` dato del usuario.  
+3. **Verificación Error** → **Niño** → **Adolescente** → **Adulto** → **Adulto Mayor** (por descarte).  
+4. **Cierre**: Múltiples `FinSi`.
 
-2- Entrada de Dato: El programa usa Leer para esperar y recibir el dato del usuario.
+**Ejemplo en lenguaje C:**  
+![Ejemplo usando C. Múltiple](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Condicional%20M%C3%BAltiple.png)
 
-3- Verificación Error: El primer Si verifica si el dato es negativo. Si es Verdadero, ejecuta el error y salta el resto de los bloques.
+**¿Cómo funciona?**  
+1. **Entrada**: Pregunta y guarda dato numérico.  
+2. **Filtros secuenciales**: `if` → `else if` → `else if` → `else`.  
+3. **Salto inmediato**: Al cumplir condición, termina la cadena.
 
-4- Verificación Niño: Si el paso 3 fue Falso, el flujo entra al bloque SiNo para encontrar el siguiente Si. Este verifica la categoría "Niño". Si es Verdadero, salta los bloques restantes.
-
-5- Verificación Adolescente: El flujo continúa su camino descendente entrando al siguiente SiNo y verifica la categoría "Adolescente".
-
-6- Verificación Adulto: El flujo continúa bajando en los SiNo anidados y verifica la categoría "Adulto".
-
-7- Caso Final: Si fallaron todas las verificaciones anteriores, la acción del último SiNo se ejecuta por descarte (imprimir "Adulto Mayor").
-
-8- Cierre: El programa cierra cada bloque lógico abierto utilizando los múltiples comandos FinSi y termina el algoritmo.
-
-**Ejemplo aplicado en lenguaje C**
-
-![Ejemplo usando C. Mutiple](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Condicional%20M%C3%BAltiple.png)
-
-**¿Como funciona?**
-
-1- Entrada de Dato: El programa muestra una pregunta en pantalla y espera que el usuario ingrese el dato numérico, guardándolo en memoria.
-
-2- Filtro Error: Verifica si el dato ingresado es menor a cero (if). Si esta condición es Verdadera, imprime un mensaje de error y el programa ignora todos los pasos siguientes.
-
-3- Filtro Niño: Si el paso 3 falló, el programa verifica la siguiente categoría (else if). Si es Verdadera, imprime "Niño" y salta al final del programa.
-
-4- Filtro Adolescente: Si el paso 4 falló, el programa verifica si el dato entra en la categoría de "Adolescente" (else if). Si es Verdadera, imprime la categoría y salta al final.
-
-5- Filtro Adulto: Si el paso 5 falló, verifica si el dato entra en la categoría de "Adulto" (else if). Si es Verdadera, imprime la categoría y salta al final.
-
-6- Caso Final: Si todos los filtros anteriores fallaron, el programa ejecuta la acción del último else (imprimir "Adulto Mayor") por simple descarte.
-
-7- Cierre: La función principal del programa termina.
+---
 
 ### 4. **Selección Múltiple (Switch / Case)** 🎛️
-Esta estructura es especial. En lugar de evaluar rangos (mayor que, menor que), compara el valor de una variable contra una **lista de casos específicos (igualdad)**. Es más limpio que escribir muchos `else if` cuando sabes los valores exactos.  
-**Uso ideal:**
-- ✅ Menús de opciones
-- ✅ Días de la semana
-- ✅ Códigos de error
+Compara una variable contra **casos específicos (igualdad)**. Más limpio que muchos `else if`.  
+**Uso ideal:**  
+- ✅ Menús de opciones  
+- ✅ Días de la semana  
+- ✅ Códigos de error  
 
-**Ejemplo usando diagrama de flujo**
+**Ejemplo en diagrama de flujo:**  
 ![Ejemplo con Switch](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/case%20Df.png)
 
-**¿Como Funciona?**
-1- Entrada de Datos: Se solicitan y leen tres variables: dos números (num1, num2) y un carácter (operador).
+**¿Cómo funciona?**  
+1. **Entrada**: `num1`, `num2`, `operador`.  
+2. **`Segun operador Hacer`**: Coincidencia exacta (+, -, *, /).  
+3. **Validación**: Previene división por cero.  
+4. **`De Otro Modo`**: Error si operador inválido.
 
-2- Control de Flujo (Segun): La ejecución pasa a la instrucción Segun operador Hacer.
+**Ejemplo en lenguaje C:**  
+![Ejemplo con Switch](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/case%20c.png)
 
-3- Evaluación Exclusiva: El programa busca una coincidencia exacta con el valor de la variable operador (+, -, *, /).
-
-4- Ejecución: Al encontrar la coincidencia (ej., *), ejecuta la operación correspondiente (resultado <- num1 * num2), muestra el resultado, e ignora todos los demás casos, terminando la estructura Segun.
-
-5- Validación: Se incluye una estructura condicional (Si/SiNo) anidada en el caso de la división para prevenir la división por cero, garantizando la estabilidad del programa.
-
-6- De Otro Modo: Si el carácter ingresado no coincide con ningún operador válido, se ejecuta el bloque de error.
-
-**Ejemplo aplicado en lenguaje C**
-![Ejemplo con Switch](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/case%20Df.png)
+**¿Cómo funciona?**  
+1. **Variables**: `float num1, num2, resultado; char operador`.  
+2. **`switch(operador)`**: Compara con cada `case`.  
+3. **`break` esencial**: Sale tras ejecutar caso correcto.  
+4. **`default`**: "Operador no válido".
 
 ---
 
-## 📊 **Ejercicios en diagrama de flujo y en C**
-En la siguiente secion se muestrara digrama de flujo del uso de los tipos de condicionales antes mencionados
-
-
-
-
-
-
----
-
-## 🔄 **Estructuras repetitivas** 
+## 🔄 **Estructuras repetitivas**  
 *(tipos y ejercicios en diagrama de flujo y en C)*
 
----
-
-## 🎯 **Ejercicio combinando estructura condicional y repetitiva** 
-*(Java o Python)*
-
-- 📝 **Descripción del problema**
-- 🔄 **Diagrama de flujo simplificado**
-- 💻 **Programa**
+## 🎯 **Ejercicio combinado**  
+*(Condicional + Repetitiva en Java/Python)*  
+- 📝 **Descripción del problema**  
+- 🔄 **Diagrama de flujo**  
+- 💻 **Programa**  
 - ✅ **Verificación**
 
----
-
-## ⚠️ **Principales dificultades**  
-*en la aplicación de los contenidos.*
-
----
-
+## ⚠️ **Dificultades principales**  
 ## 🤔 **Reflexión crítica**  
-*de los aprendizajes de la unidad.*
-
----
-
 ## 🗂️ **Tareas entregadas**
 
 
