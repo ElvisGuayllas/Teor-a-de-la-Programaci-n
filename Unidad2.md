@@ -48,7 +48,11 @@ El programa es sencillo sirve para verificar si una persona es mayor de edad a b
 Aquí definimos qué hacer en ambos casos. Si la condición se cumple, se hace una cosa; si no se cumple, se hace otra distinta. **Nunca se ejecutan ambas a la vez.**  
 **Lógica:** *"Si tengo dinero, compro el juego. Si no (Else), solo miro la demo."*
 
-**Ejemplo:**
+**Ejemplo en diagrama de flujo**
+![Ejemplo de la condicion if - else]()
+
+
+**Ejemplo en lenguaje C**
 
 ![Ejemplo de la condicion IF - Else](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/else-if.png)
 
