@@ -118,3 +118,19 @@ Compara una variable contra **casos específicos (igualdad)**. Más limpio que m
 ✅ **4.** Si encuentra una coincidencia exacta, ejecuta la operación correspondiente. La instrucción `break;` es **esencial**: garantiza que el flujo salga inmediatamente de la estructura `switch`.  
 🚫 **5.** Si el carácter ingresado
 
+
+## **Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C)**
+
+
+
+
+## 🎯 **Ejercicio combinando estructura condicional y repetitiva**  
+*(Java o Python)*  
+- 📝 **Descripción del problema**  
+- 🔄 **Diagrama de flujo simplificado**  
+- 💻 **Programa**  
+- ✅ **Verificación**  
+
+## ⚠️ **Principales dificultades** *en la aplicación de los contenidos*  
+## 🤔 **Reflexión crítica** *de los aprendizajes de la unidad*  
+## 🗂️ **Tareas entregadas**
