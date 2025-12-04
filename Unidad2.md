@@ -26,11 +26,14 @@ Es la estructura más básica. Se evalúa una condición; si es verdadera, se ej
 ![Ejemplo de la condicion IF](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/ifc.png)
 
 **¿Cómo funciona?**  
-🔢 **1. El programa pide al usuario que ingrese su edad.**  
-💾 **2. Guarda ese número en la variable `edad`.**  
-🔍 **3. Luego verifica si la edad es mayor o igual a 18.**  
-✅ **4. Si lo es, muestra el mensaje: "Usted es mayor de edad".**  
-⏭️ **5. Si es menor de 18, no muestra nada más.**
+🔢 **1.** El programa pide al usuario que ingrese su edad.
+
+💾 **2.** Guarda ese número en la variable `edad`.  
+🔍 **3.** Luego verifica si la edad es mayor o igual a 18.
+
+✅ **4.** Si lo es, muestra el mensaje: "Usted es mayor de edad".
+
+⏭️ **5.** Si es menor de 18, no muestra nada más.
 
 > **Programa sencillo para verificar si una persona es mayor de edad a base de la edad ingresada.**
 
