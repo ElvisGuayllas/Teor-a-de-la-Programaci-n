@@ -286,7 +286,7 @@ El ciclo continúa hasta que la condición se cumpla (o se vuelva verdadera).
 - 🔄 **Diagrama de flujo simplificado**
 ![Python](    )
 - 💻 **Programa**
-![Lenguaje C](   )
+![Lenguaje C](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Py%20c.png)
 - ✅ **Verificación**  
 ![Prueba](   )
 ## ⚠️ **Principales dificultades** *en la aplicación de los contenidos*  
