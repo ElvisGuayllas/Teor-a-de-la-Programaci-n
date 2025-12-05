@@ -22,7 +22,7 @@ Es la estructura más básica. Se evalúa una condición; si es verdadera, se ej
 ✅ **3.** Se evalúa una condición con la estructura `Si...Entonces`. La condición que se verifica es si la edad es **mayor o igual a 18**. Si la condición es verdadera, se ejecuta la instrucción `Escribir "Usted es mayor de edad"`.  
 🏁 **4.** Las instrucciones del algoritmo finalizan con `FinAlgoritmo`, indicando que se ha completado el proceso.
 
-**Ejemplo en Lenguaje C:**  
+**Ejemplo aplicado en Lenguaje C:**  
 ![Ejemplo de la condicion IF](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/ifc.png)
 
 **¿Cómo funciona?**  
@@ -49,7 +49,7 @@ Aquí definimos qué hacer en **ambos casos**. Si la condición se cumple, se ha
 🔒 **3.** Esta anidación explica por qué se requieren **múltiples `FinSi`** al final. Cada `FinSi` cierra un nivel de la decisión que fue abierto por un `Si` anterior.  
 📥 **4.** El proceso de entrada y salida es más directo: `Leer edad` y `Escribir "Mensaje"`.
 
-**Ejemplo en lenguaje C:**  
+**Ejemplo aplicado en lenguaje C:**  
 ![Ejemplo de la condicion IF - Else](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/else-if.png)
 
 **¿Cómo funciona?**  
@@ -77,6 +77,7 @@ Es una **escalera de condiciones**. Si falla la primera, prueba la segunda, lueg
 🔒 **8.** El programa cierra cada bloque lógico abierto utilizando los **múltiples comandos `FinSi`** y termina el algoritmo.
 
 **Ejemplo aplicado en lenguaje C:**  
+
 ![Ejemplo usando C. Mutiple](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Condicional%20M%C3%BAltiple.png)
 
 **¿Cómo funciona?**  
@@ -92,12 +93,13 @@ Es una **escalera de condiciones**. Si falla la primera, prueba la segunda, lueg
 
 ### 4. **Selección Múltiple (Switch / Case)** 🎛️
 Compara una variable contra **casos específicos (igualdad)**. Más limpio que muchos `else if`.  
-**Uso ideal:**  
+**Usos ideales:**  
 - ✅ Menús de opciones  
 - ✅ Días de la semana  
 - ✅ Códigos de error  
 
 **Ejemplo usando diagrama de flujo:**  
+
 ![Ejemplo con Switch](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/case%20Df.png)
 
 **¿Cómo Funciona?**  
@@ -109,6 +111,7 @@ Compara una variable contra **casos específicos (igualdad)**. Más limpio que m
 🚫 **6.** Si el carácter ingresado no coincide con ningún operador válido, se ejecuta el bloque de **error**.
 
 **Ejemplo aplicado en lenguaje C:**  
+
 ![Ejemplo con Switch](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/case%20c.png)
 
 **¿Cómo funciona?**  
@@ -118,11 +121,72 @@ Compara una variable contra **casos específicos (igualdad)**. Más limpio que m
 ✅ **4.** Si encuentra una coincidencia exacta, ejecuta la operación correspondiente. La instrucción `break;` es **esencial**: garantiza que el flujo salga inmediatamente de la estructura `switch`.  
 🚫 **5.** Si el carácter ingresado
 
+# ✅ **Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C)**
+Las estructuras repetitivas, también llamadas bucles o iteraciones, son mecanismos que permiten ejecutar un conjunto de instrucciones varias veces, dependiendo de una condición o de un número fijado de repeticiones.
+Sirven para automatizar tareas repetitivas sin tener que escribir las mismas instrucciones muchas veces.
+🔁 Tipos principales de estructuras repetitivas
 
-## **Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C)**
+🔁 1. Estructura Repetitiva “Mientras” (WHILE)
+✅ Definición: Es una estructura que repite un conjunto de instrucciones mientras una condición sea verdadera.
+La condición se evalúa antes de ejecutar el bloque.
+⚙️ ¿Cómo funciona?
+- Evalúa la condición.
+- Si es verdadera → ejecuta el bloque.
+- Vuelve a evaluar la condición.
+- Repite hasta que la condición resulte falsa.
+- 
+🎯 Para qué sirve:
 
+- Procesos donde no se sabe cuántas repeticiones habrá.
 
+- Repetir hasta que ocurra algo (un valor, un evento o una entrada válida).
 
+- Controlar bucles dependientes de una condición lógica.
+
+🔁 2. Estructura Repetitiva “Repetir…Hasta que” (DO–WHILE)
+✅ Definición: Es una estructura repetitiva que ejecuta las instrucciones primero, y luego evalúa la condición.
+El ciclo continúa hasta que la condición se cumpla (o se vuelva verdadera).
+
+⚙️ Cómo funciona:
+
+- Ejecuta el bloque de instrucciones al menos una vez.
+
+- Evalúa la condición.
+
+- Si la condición aún no se cumple → repite el bloque.
+
+- Termina cuando la condición sea verdadera.
+
+🎯 Para qué sirve:
+
+- Validación de datos: obligar al usuario a ingresar algo correctamente.
+
+- Tareas que deben ejecutarse mínimo una vez sin importar la condición.
+
+- Repeticiones basadas en una verificación al final.
+
+🔁 3. Estructura Repetitiva “Para” (FOR)
+✅ Definición: Es una estructura controlada por un contador que repite un bloque de instrucciones un número específico y definido de veces.
+
+⚙️ Cómo funciona:
+
+- Se inicializa una variable (contador).
+
+- El contador se compara con un límite.
+
+- Si no se cumple el límite, ejecuta el bloque.
+
+- Al terminar, el contador cambia automáticamente (incrementa o decrementa).
+
+- Repite hasta alcanzar el límite.
+
+🎯 Para qué sirve:
+
+- Repetir acciones un número conocido de veces.
+
+- Recorrer listas, arreglos o secuencias numéricas.
+
+- Tareas con un inicio, fin y paso definidos.
 
 ## 🎯 **Ejercicio combinando estructura condicional y repetitiva**  
 *(Java o Python)*  
