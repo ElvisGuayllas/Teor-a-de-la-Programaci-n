@@ -126,7 +126,7 @@ Las estructuras repetitivas, también llamadas bucles o iteraciones, son mecanis
 Sirven para automatizar tareas repetitivas sin tener que escribir las mismas instrucciones muchas veces.
 🔁 Tipos principales de estructuras repetitivas
 
-🔁 1. Estructura Repetitiva “Mientras” (WHILE)
+🔁 **1. Estructura Repetitiva “Mientras” (WHILE)**
 ✅ Definición: Es una estructura que repite un conjunto de instrucciones mientras una condición sea verdadera.
 La condición se evalúa antes de ejecutar el bloque.
 ⚙️ ¿Cómo funciona?
@@ -144,9 +144,38 @@ La condición se evalúa antes de ejecutar el bloque.
 
 **Ejemplo en diagrama de flujo** 
 
-![Ejemplo con WHILE]()
+![Ejemplo con WHILE](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/mientras%20DF%20(1).png)
 
-🔁 2. Estructura Repetitiva “Repetir…Hasta que” (DO–WHILE)
+**¿Como funciona?**
+
+1. Inicialización: El algoritmo define ambas variables como Entero. Luego, las inicializa: contador se establece en 0 y acumulador se establece en 0.
+
+2. Condición de Prueba: La instrucción Mientras contador <= 5 Hacer es el punto de control. Antes de cada ciclo, el programa verifica si el valor del contador es menor o igual a 5.Si es Verdadero, el bloque de código interno se ejecuta.Si es Falso, el bucle se detiene y salta a la línea después de FinMientras.
+   
+3. Proceso (Dentro del Bucle):acumulador <- acumulador + contador: La suma se realiza. El valor actual del contador se añade al acumulador.contador <- contador + El contador se incrementa en 1. Esta acción es esencial para garantizar que el bucle avance hacia su final y no se convierta en un bucle infinito.
+   
+4. Terminación y Salida:El bucle se repite hasta que el contador se incrementa a 6. En ese momento, la condición $6 \le 5$ es Falsa.El bucle se detiene.La última línea, Escribir "La suma es: ", acumulador, muestra el resultado final en pantalla, que es 15.
+
+**Ejemplo aplicado en lenguaje C**
+
+![Ejemplo con WHILE]([)](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/mientras%20c.png)
+
+**¿Como funciona?**
+
+1. Condición de Prueba: La instrucción while (contador <= 5) verifica la condición al inicio de cada ciclo. Si la condición es Verdadera (V), el código dentro de las llaves se ejecuta. Si es Falsa (F), el bucle se detiene.
+
+2. Acumulación: La línea acumulador = acumulador + contador; toma el valor actual de contador y lo añade al total acumulado.
+
+3. Incremento (Avance): La línea contador = contador + 1; (o contador++;) es crucial. Esta línea asegura que la variable de control avance. Si no existiera, el contador siempre sería 1 y el bucle se ejecutaría infinitamente.
+
+4. Una vez que el contador alcanza el valor de 6, la condición se vuelve falsa y el programa salta a la siguiente línea.
+printf ("La suma es: %i\n", acumulador); imprime el resultado final de la suma, que es 15.
+
+5. return 0; indica la finalización exitosa del programa principal.
+
+
+🔁 **2. Estructura Repetitiva “Repetir…Hasta que” (DO–WHILE)**
+
 ✅ Definición: Es una estructura repetitiva que ejecuta las instrucciones primero, y luego evalúa la condición.
 El ciclo continúa hasta que la condición se cumpla (o se vuelva verdadera).
 
