@@ -284,11 +284,11 @@ El ciclo continúa hasta que la condición se cumpla (o se vuelva verdadera).
 - 📝 **Descripción del problema**
   Este ejercicio combina un bucle while (repetitivo) para manejar entradas continuas hasta una condición de parada, con if-else (condicional) para clasificar y contar los números, promoviendo el aprendizaje de control de flujo en Python de manera práctica y aplicable a escenarios reales como procesamiento de datos de usuario. Es ideal para principiantes, ya que refuerza conceptos básicos sin complejidad excesiva. Si quieres variaciones (como incluir cero en el conteo o usar un bucle for), ¡házmelo saber!
 - 🔄 **Diagrama de flujo simplificado**
-![Python](    )
+![Python](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/diagrama%20py.png)
 - 💻 **Programa**
 ![Lenguaje C](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Py%20c.png)
 - ✅ **Verificación**  
-![Prueba](   )
+![Prueba](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/pruebas%20py.png)
 ## ⚠️ **Principales dificultades** *en la aplicación de los contenidos*  
 ## 🤔 **Reflexión crítica** *de los aprendizajes de la unidad*  
 ## 🗂️ **Tareas entregadas** ✅
