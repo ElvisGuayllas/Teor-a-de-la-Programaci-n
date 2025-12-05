@@ -158,7 +158,7 @@ La condición se evalúa antes de ejecutar el bloque.
 
 **Ejemplo aplicado en lenguaje C**
 
-![Ejemplo con WHILE]([)](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/mientras%20c.png)
+![Ejemplo con WHILE](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/mientras%20c.png)
 
 **¿Como funciona?**
 
