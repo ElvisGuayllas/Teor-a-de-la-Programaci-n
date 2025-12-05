@@ -134,7 +134,6 @@ La condición se evalúa antes de ejecutar el bloque.
 - Si es verdadera → ejecuta el bloque.
 - Vuelve a evaluar la condición.
 - Repite hasta que la condición resulte falsa.
-- 
 🎯 Para qué sirve:
 
 - Procesos donde no se sabe cuántas repeticiones habrá.
@@ -142,6 +141,10 @@ La condición se evalúa antes de ejecutar el bloque.
 - Repetir hasta que ocurra algo (un valor, un evento o una entrada válida).
 
 - Controlar bucles dependientes de una condición lógica.
+
+**Ejemplo en diagrama de flujo** 
+
+![Ejemplo con WHILE]()
 
 🔁 2. Estructura Repetitiva “Repetir…Hasta que” (DO–WHILE)
 ✅ Definición: Es una estructura repetitiva que ejecuta las instrucciones primero, y luego evalúa la condición.
