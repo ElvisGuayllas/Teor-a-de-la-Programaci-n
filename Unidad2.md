@@ -1,8 +1,9 @@
-# 🌟 **📚 TEMAS PRINCIPALES** 🌟
+#  **📚 TEMAS PRINCIPALES** 
 
 ## 🔹 **Tipos de Estructuras Condicionales** 💡
 
 🌈 Las **estructuras condicionales** son las herramientas que permiten a un programa *"tomar decisiones"*. Rompen la ejecución lineal (paso 1, paso 2, paso 3) y crean bifurcaciones en el camino:  
+
 **"Si pasa X, haz esto; si no, haz lo otro."** 🎯
 
 ⭐ Los **tipos principales** que encontrarás en lenguajes como C, Java, Python, etc., son:
@@ -16,6 +17,7 @@
 *(Si no llueve, simplemente sigo caminando).* ☔
 
 **📊 Ejemplo en diagrama de flujo:**  
+
 ![Ejemplo de la condicion IF](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/if.png)
 
 **⚙️ ¿Cómo funciona?**  
@@ -25,6 +27,7 @@
 🏁 **4.** Las instrucciones del algoritmo finalizan con `FinAlgoritmo`, indicando que se ha completado el proceso.
 
 **💻 Ejemplo aplicado en Lenguaje C:**  
+
 ![Ejemplo de la condicion IF](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/ifc.png)
 
 **🔍 ¿Cómo funciona?**  
@@ -40,6 +43,7 @@
 
 ### 2️⃣ **Condicional Doble (If - Else)** 🔄
 🎲 Aquí definimos qué hacer en **ambos casos**. Si la condición se cumple, se hace una cosa; si no se cumple, se hace otra distinta. **Nunca se ejecutan ambas a la vez.**  
+
 **🧠 Lógica:** *"Si tengo dinero, compro el juego. Si no (Else), solo miro la demo."* 💰🎮
 
 **📊 Ejemplo en diagrama de flujo:**  
@@ -58,6 +62,9 @@
 🔢 **1.** El lenguaje C utiliza el `if-else if` como una **cadena secuencial y plana**.  
 ⚡ **2.** La estructura `else if` actúa como un **filtro directo**. Si la primera condición (`if`) es falsa, el programa pasa al `else if` y así sucesivamente.  
 🚫 **3.** Tan pronto como una condición (`if` o `else if`) se cumple, el programa **salta inmediatamente** fuera de toda la cadena.
+
+
+*✨ Programa sencillo para verificar si una persona es mayor de edad a base de la edad ingresada.*
 
 ---
 
@@ -90,6 +97,8 @@
 👴 **6.** Si todos los filtros anteriores fallaron, el programa ejecuta la acción del último `else` (**imprimir "Adulto Mayor"**) por simple descarte.  
 🏁 **7.** La función principal del programa termina.
 
+*✨ Programa sencillo para verificar si una persona es mayor de edad a base de la edad ingresada.*
+
 ---
 
 ### 4️⃣ **Selección Múltiple (Switch / Case)** 🎛️
@@ -100,6 +109,7 @@
 - ✅ Códigos de error  
 
 **📊 Ejemplo usando diagrama de flujo:**  
+
 ![Ejemplo con Switch](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/case%20Df.png)
 
 **⚙️ ¿Cómo Funciona?**  
@@ -150,8 +160,8 @@ La condición se evalúa antes de ejecutar el bloque.
 **🔍 ¿Como funciona?**  
 1️⃣ **Inicialización:** El algoritmo define ambas variables como Entero. Luego, las inicializa: contador se establece en 0 y acumulador se establece en 0.  
 2️⃣ **Condición de Prueba:** La instrucción Mientras contador <= 5 Hacer es el punto de control. Antes de cada ciclo, el programa verifica si el valor del contador es menor o igual a 5.Si es Verdadero, el bloque de código interno se ejecuta.Si es Falso, el bucle se detiene y salta a la línea después de FinMientras.  
-3️⃣ **Proceso (Dentro del Bucle):**acumulador <- acumulador + contador: La suma se realiza. El valor actual del contador se añade al acumulador.contador <- contador + El contador se incrementa en 1. Esta acción es esencial para garantizar que el bucle avance hacia su final y no se convierta en un bucle infinito.  
-4️⃣ **Terminación y Salida:**El bucle se repite hasta que el contador se incrementa a 6. En ese momento, la condición \(6 \le 5\) es Falsa.El bucle se detiene.La última línea, Escribir "La suma es: ", acumulador, muestra el resultado final en pantalla, que es 15.
+3️⃣ **Proceso (Dentro del Bucle):** acumulador <- acumulador + contador: La suma se realiza. El valor actual del contador se añade al acumulador.contador <- contador + El contador se incrementa en 1. Esta acción es esencial para garantizar que el bucle avance hacia su final y no se convierta en un bucle infinito.  
+4️⃣ **Terminación y Salida:** El bucle se repite hasta que el contador se incrementa a 6. En ese momento, la condición \(6 \le 5\) es Falsa.El bucle se detiene.La última línea, Escribir "La suma es: ", acumulador, muestra el resultado final en pantalla, que es 15.
 
 **💻 Ejemplo aplicado en lenguaje C**  
 ![Ejemplo con WHILE](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/mientras%20c.png)
@@ -160,9 +170,9 @@ La condición se evalúa antes de ejecutar el bloque.
 1️⃣ **Condición de Prueba:** La instrucción while (contador <= 5) verifica la condición al inicio de cada ciclo. Si la condición es Verdadera (V), el código dentro de las llaves se ejecuta. Si es Falsa (F), el bucle se detiene.  
 2️⃣ **Acumulación:** La línea acumulador = acumulador + contador; toma el valor actual de contador y lo añade al total acumulado.  
 3️⃣ **Incremento (Avance):** La línea contador = contador + 1; (o contador++;) es crucial. Esta línea asegura que la variable de control avance. Si no existiera, el contador siempre sería 1 y el bucle se ejecutaría infinitamente.  
-4️⃣ Una vez que el contador alcanza el valor de 6, la condición se vuelve falsa y el programa salta a la siguiente línea.  
-   printf ("La suma es: %i\n", acumulador); imprime el resultado final de la suma, que es 15.  
-5️⃣ return 0; indica la finalización exitosa del programa principal.
+- Una vez que el contador alcanza el valor de 6, la condición se vuelve falsa y el programa salta a la siguiente línea.  
+- printf ("La suma es: %i\n", acumulador); imprime el resultado final de la suma, que es 15.  
+4️⃣ return 0; indica la finalización exitosa del programa principal.
 
 ---
 
@@ -192,7 +202,7 @@ El ciclo continúa hasta que la condición se cumpla (o se vuelva verdadera).
    - Inicio del Bucle (Repetir): El algoritmo entra inmediatamente al bucle. Pide al usuario un número y lo almacena en la variable numero.  
 
 2️⃣ **Evaluación y Conteo (Dentro del Bucle)**  
-   - Conteo Condicional (Si): Dentro del bucle, la estructura Si numero > 0 Entonces verifica la entrada.Si el número es positivo, el contador se incrementa en uno (contador <- contador + 1).  
+   - Conteo Condicional (Si): Dentro del bucle, la estructura Si numero > 0 Entonces verifica la entrada.Si el número es positivo, el contador se incrementa en    uno (contador <- contador + 1).  
    - Si el número es cero o negativo, el contador no cambia.  
 
 3️⃣ **Condición de Parada (Hasta Que):** El control llega a la instrucción Hasta Que numero <= 0. Aquí es donde el algoritmo decide si continuar o detenerse.  
@@ -237,20 +247,21 @@ El ciclo continúa hasta que la condición se cumpla (o se vuelva verdadera).
 
 **🔍 ¿Como funciona?**  
 1️⃣ **Inicialización (Se ejecuta solo una vez)**  
-   Código: contador = 50;  
+
    - Acción: La variable contador se inicializa con el valor 50. Esto ocurre únicamente al comienzo del bucle.  
 
 2️⃣ **Condición (Se verifica al inicio de cada ciclo)**  
-   Código: contador >= 1;  
+
    - Acción: Antes de que el código dentro de las llaves se ejecute, se verifica si el valor de contador es mayor o igual a 1.  
    - Si es Verdadero, el bucle continúa.  
    - Si es Falso (cuando contador llega a 0), el bucle se detiene y el programa salta a return 0;.  
 
 3️⃣ **Incremento/Decremento (Se ejecuta al final de cada ciclo)**  
-   Código: contador--  
+
    - Acción: Después de que se ha ejecutado el cuerpo del bucle (la impresión del número), el valor de contador se decrementa en 1 (contador-- es equivalente a contador = contador - 1). Esto asegura que el bucle avance hacia su fin.
 
 **💻 Ejemplo aplicado en lenguaje C**  
+
 ![Ejemplo usando for](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/FOR%20C.png)
 
 **🔍 ¿Como funciona?**  
@@ -270,11 +281,14 @@ El ciclo continúa hasta que la condición se cumpla (o se vuelva verdadera).
 
 ## 🎯 **Ejercicio combinando estructura condicional y repetitiva** 🚀  
 *(Java o Python)*  
-- 📝 **Descripción del problema**  
-- 🔄 **Diagrama de flujo simplificado**  
-- 💻 **Programa**  
+- 📝 **Descripción del problema**
+  Este ejercicio combina un bucle while (repetitivo) para manejar entradas continuas hasta una condición de parada, con if-else (condicional) para clasificar y contar los números, promoviendo el aprendizaje de control de flujo en Python de manera práctica y aplicable a escenarios reales como procesamiento de datos de usuario. Es ideal para principiantes, ya que refuerza conceptos básicos sin complejidad excesiva. Si quieres variaciones (como incluir cero en el conteo o usar un bucle for), ¡házmelo saber!
+- 🔄 **Diagrama de flujo simplificado**
+![Python](    )
+- 💻 **Programa**
+![Lenguaje C](   )
 - ✅ **Verificación**  
-
+![Prueba](   )
 ## ⚠️ **Principales dificultades** *en la aplicación de los contenidos*  
 ## 🤔 **Reflexión crítica** *de los aprendizajes de la unidad*  
 ## 🗂️ **Tareas entregadas** ✅
