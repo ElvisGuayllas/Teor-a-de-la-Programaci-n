@@ -197,7 +197,39 @@ El ciclo continúa hasta que la condición se cumpla (o se vuelva verdadera).
 
 - Repeticiones basadas en una verificación al final.
 
-🔁 3. Estructura Repetitiva “Para” (FOR)
+**Ejemplo en diagrama de flujo**
+El siguiente programa sirve para contar numeros positivos.
+
+![Ejemplo usando DO-WHILE]()
+
+
+**¿Como funciona?**
+
+
+**Ejemplo aplicado en lenguaje C**
+![Ejemplo usando DO-WHILE]()
+
+**¿Como funciona?**
+
+1. Inicialización: El programa inicializa un contador a cero. Este contador será la variable que acumule la cuenta de los números válidos.
+
+2. Bucle Principal: Dentro del bloque do, el programa solicita y lee un número del usuario.
+
+3. Evaluación Condicional: Inmediatamente después de leer la entrada, una estructura if anidada verifica si el número ingresado es mayor que cero (positivo).
+
+- Si es positivo, se incrementa el contador.
+
+- Si es cero o negativo, el contador se mantiene igual.
+
+4. Control de Flujo: La condición while (numero > 0); se evalúa al final del ciclo.
+
+- Si el último número ingresado fue positivo, el bucle repite el proceso (do).
+
+- Si el usuario ingresa un número negativo o cero, la condición se vuelve falsa y la iteración se detiene.
+
+5. Salida: Una vez terminado el bucle, el programa muestra la cantidad total de números positivos que fueron ingresados.
+
+🔁 **3. Estructura Repetitiva “Para” (FOR)**
 ✅ Definición: Es una estructura controlada por un contador que repite un bloque de instrucciones un número específico y definido de veces.
 
 ⚙️ Cómo funciona:
@@ -219,6 +251,52 @@ El ciclo continúa hasta que la condición se cumpla (o se vuelva verdadera).
 - Recorrer listas, arreglos o secuencias numéricas.
 
 - Tareas con un inicio, fin y paso definidos.
+
+
+**Ejemplo en Diagrama de Flujo**
+
+![Ejemplo usando FOR]()
+
+**¿Como funciona?**
+
+1. Inicialización (Se ejecuta solo una vez)
+Código: contador = 50;
+
+- Acción: La variable contador se inicializa con el valor 50. Esto ocurre únicamente al comienzo del bucle.
+
+2. Condición (Se verifica al inicio de cada ciclo)
+Código: contador >= 1;
+
+- Acción: Antes de que el código dentro de las llaves se ejecute, se verifica si el valor de contador es mayor o igual a 1.
+
+- Si es Verdadero, el bucle continúa.
+
+- Si es Falso (cuando contador llega a 0), el bucle se detiene y el programa salta a return 0;.
+
+3. Incremento/Decremento (Se ejecuta al final de cada ciclo)
+Código: contador--
+
+- Acción: Después de que se ha ejecutado el cuerpo del bucle (la impresión del número), el valor de contador se decrementa en 1 (contador-- es equivalente a contador = contador - 1). Esto asegura que el bucle avance hacia su fin.
+
+**Ejemplo aplicado en lenguaje C**
+
+![Ejemplo usando for]()
+
+**¿Como funciona?**
+1. Inicialización (Inicio)
+Código: contador <- 50
+
+- Acción: La variable contador se inicializa con el valor de 50. Esto marca el punto de partida.
+
+2. Condición (Hasta el Fin)
+Código: Hasta 1
+
+- Acción: Esta es la condición de parada. El bucle continuará ejecutándose mientras el valor del contador no supere (en este caso, no sea menor) que el valor final de 1.
+
+3. Incremento/Decremento (Paso)
+Código: Con Paso -1
+
+- Acción: Después de cada ciclo de impresión, el valor del contador se decrementa en 1. Esto asegura la cuenta regresiva.
 
 ## 🎯 **Ejercicio combinando estructura condicional y repetitiva**  
 *(Java o Python)*  
