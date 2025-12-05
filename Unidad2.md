@@ -200,14 +200,28 @@ El ciclo continúa hasta que la condición se cumpla (o se vuelva verdadera).
 **Ejemplo en diagrama de flujo**
 El siguiente programa sirve para contar numeros positivos.
 
-![Ejemplo usando DO-WHILE]()
+![Ejemplo usando DO-WHILE](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/do-while%20DF.png)
 
 
 **¿Como funciona?**
+1. Inicialización y Entrada de Datos
+- Definición: Se declaran dos variables de tipo Entero: contador (para llevar la cuenta) y numero (para la entrada del usuario).
+- Inicialización: La variable contador se inicializa en 0.
+- Inicio del Bucle (Repetir): El algoritmo entra inmediatamente al bucle. Pide al usuario un número y lo almacena en la variable numero.
+
+2. Evaluación y Conteo (Dentro del Bucle)
+- Conteo Condicional (Si): Dentro del bucle, la estructura Si numero > 0 Entonces verifica la entrada.Si el número es positivo, el contador se incrementa en uno (contador <- contador + 1).
+- Si el número es cero o negativo, el contador no cambia.
+3. Condición de Parada (Hasta Que): El control llega a la instrucción Hasta Que numero <= 0. Aquí es donde el algoritmo decide si continuar o detenerse.
+
+- Si la condición es Verdadera (el número es $\le 0$), el bucle se detiene.
+- Si la condición es Falsa (el número sigue siendo $> 0$), el bucle regresa a la instrucción Repetir para solicitar otro número.
+
+4. Salida: Una vez que el usuario ingresa un número negativo o cero, el bucle termina, y el algoritmo ejecuta la última línea: Escribir "Cantidad de numeros positivos: ", contador, mostrando el total acumulado de números positivos.
 
 
 **Ejemplo aplicado en lenguaje C**
-![Ejemplo usando DO-WHILE]()
+![Ejemplo usando DO-WHILE](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/do-while%20C.png)
 
 **¿Como funciona?**
 
@@ -255,7 +269,7 @@ El siguiente programa sirve para contar numeros positivos.
 
 **Ejemplo en Diagrama de Flujo**
 
-![Ejemplo usando FOR]()
+![Ejemplo usando FOR](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/FOR%20DI.%20F.png)
 
 **¿Como funciona?**
 
@@ -280,7 +294,7 @@ Código: contador--
 
 **Ejemplo aplicado en lenguaje C**
 
-![Ejemplo usando for]()
+![Ejemplo usando for](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/FOR%20C.png)
 
 **¿Como funciona?**
 1. Inicialización (Inicio)
