@@ -287,7 +287,7 @@ El ciclo continúa hasta que la condición se cumpla (o se vuelva verdadera).
 
 ![Python](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/diagrama%20py.png)
 
-- 💻 **Programa en C**
+- 💻 **Programa en Python**
 
 ![Lenguaje C](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/Py%20c.png)
 
