@@ -304,5 +304,9 @@ El ciclo continúa hasta que la condición se cumpla (o se vuelva verdadera).
 - ✅ [APE 1. Aplicación de estructuras condicionales en la resolución de problemas](https://drive.google.com/file/d/1KPooiPa_FSDzOl1RPXhBRwgwxPZWpPLX/view?usp=drive_link)  
 - ✅ [APE 2. Aplicación de estructuras repetitivas en la resolución de problemas](https://drive.google.com/file/d/10ql4YwGiXF3_3KBtp_kW2qLK4KDyH_yW/view?usp=drive_link)  
 - ✅ [AA 1. Diferencias entre los tipos de estructuras condicionales](https://drive.google.com/file/d/1hfiNOmD2dLQUbsNQQ9WR6nUv6mkFdRa8/view?usp=drive_link)  
-- ✅ [AA 2. Cuadro comparativo entre las estructuras repetitivas](https://drive.google.com/file/d/1n5jhXUBuOb6JLXl9Y7xBYrS-LfHOmJqv/view?usp=drive_link)  
+- ✅ [AA 2. Cuadro comparativo entre las estructuras repetitivas](https://drive.google.com/file/d/1n5jhXUBuOb6JLXl9Y7xBYrS-LfHOmJqv/view?usp=drive_link)
+
+---
+
+[⬅️ Regresar al índice principal](./index.md)
 
