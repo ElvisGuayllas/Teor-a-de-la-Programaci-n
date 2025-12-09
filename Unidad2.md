@@ -295,11 +295,11 @@ El ciclo continúa hasta que la condición se cumpla (o se vuelva verdadera).
 
 ![Prueba](https://github.com/ElvisGuayllas/Teor-a-de-la-Programaci-n/blob/main/imagenes/pruebas%20py.png)
 ## ⚠️ **Principales dificultades** *en la aplicación de los contenidos*  
-- Me costo entender las estructuras repetirivas, pero gracias a la ayuda de la ing y al reaso en casa pude mejorar notablemente mi aprendizaje
-- no le entendi bien la logica de los contadores y me impidio mejorar 
+- Tuve dificultades para comprender las estructuras repetitivas; sin embargo, gracias al apoyo de la ingeniera y la práctica constante en casa, logré mejorar significativamente mi comprensión.
+- No comprendí completamente la lógica detrás de los contadores, lo cual limitó mi avance en ese aspecto.
 ## 🤔 **Reflexión crítica** *de los aprendizajes de la unidad*  
-- Aprender de verdad implica cometer errores y analizarlos, no solo corregirlos rápido. Lo importante no es “no fallar”, sino entender por qué fallaste y cómo evitar repetir el mismo patrón.
-- Cuando todo sale bien a la primera, casi no se aprende; el mayor crecimiento aparece cuando algo cuesta y te obliga a replantear tu forma de pensar.
+- El aprendizaje efectivo implica cometer errores y analizarlos detenidamente, más allá de simplemente corregirlos de manera superficial. Lo fundamental no es evitar equivocarse, sino comprender las causas de los errores y cómo prevenir su repetición en el futuro.
+- Cuando los resultados son exitosos desde el primer intento, el proceso de aprendizaje suele ser limitado; el mayor desarrollo cognitivo ocurre cuando se enfrentan dificultades que requieren reevaluar y modificar los esquemas mentales utilizados.
 ## 🗂️ **Tareas entregadas** ✅
 - ✅ [APE 1. Aplicación de estructuras condicionales en la resolución de problemas](https://drive.google.com/file/d/1KPooiPa_FSDzOl1RPXhBRwgwxPZWpPLX/view?usp=drive_link)  
 - ✅ [APE 2. Aplicación de estructuras repetitivas en la resolución de problemas](https://drive.google.com/file/d/10ql4YwGiXF3_3KBtp_kW2qLK4KDyH_yW/view?usp=drive_link)  
